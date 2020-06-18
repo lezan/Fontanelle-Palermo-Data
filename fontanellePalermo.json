@@ -1,0 +1,1352 @@
+[
+    {
+        "id": 0,
+        "nome": "fontanella",
+        "indirizzo": "piazza Danisinni, 22",
+        "latitudine": "38.112536",
+        "longitudine": "13.34446",
+        "quartiere": "Zisa",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 1,
+        "nome": "fontanella",
+        "indirizzo": "piazza Concezione, 7",
+        "latitudine": "38.117926",
+        "longitudine": "13.353889",
+        "quartiere": "Palazzo Reale-Monte di Pietà",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 2,
+        "nome": "fontanella",
+        "indirizzo": "via saline, 29",
+        "latitudine": "38.19384",
+        "longitudine": "13.327761",
+        "quartiere": "Partanna-Mondello",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 3,
+        "nome": "fontanella",
+        "indirizzo": "via pallavicino, 93",
+        "latitudine": "38.17158",
+        "longitudine": "13.327725",
+        "quartiere": "Pallavicino",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 4,
+        "nome": "fontanella",
+        "indirizzo": "piazza martini, 3",
+        "latitudine": "38.192242",
+        "longitudine": "13.326659",
+        "quartiere": "Partanna-Mondello",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 5,
+        "nome": "fontana",
+        "indirizzo": "via del fante, 3",
+        "latitudine": "38.148114",
+        "longitudine": "13.343577",
+        "quartiere": "Resuttana-San Lorenzo",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 6,
+        "nome": "fontanella",
+        "indirizzo": "piazza Tommaso Natale, 141",
+        "latitudine": "38.189522",
+        "longitudine": "13.285868",
+        "quartiere": "Tommaso Natale-Sferracavallo",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 7,
+        "nome": "fontanella",
+        "indirizzo": "via Partanna Mondello, 167",
+        "latitudine": "38.196281",
+        "longitudine": "13.311114",
+        "quartiere": "Partanna-Mondello",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 8,
+        "nome": "fontana",
+        "indirizzo": "cortile Catalano, 23 c",
+        "latitudine": "38.201258",
+        "longitudine": "13.313392",
+        "quartiere": "Partanna-Mondello",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 9,
+        "nome": "fontanella",
+        "indirizzo": "via Catalano, 43 b",
+        "latitudine": "38.199843",
+        "longitudine": "13.313914",
+        "quartiere": "Partanna-Mondello",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 10,
+        "nome": "fontanella",
+        "indirizzo": "via Carbone, 1",
+        "latitudine": "38.198446",
+        "longitudine": "13.318446",
+        "quartiere": "Partanna-Mondello",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 11,
+        "nome": "fontanella",
+        "indirizzo": "viale Cavarretta, 1",
+        "latitudine": "38.196729",
+        "longitudine": "13.315325",
+        "quartiere": "Partanna-Mondello",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 12,
+        "nome": "fontanella",
+        "indirizzo": "via Altarello, 233",
+        "latitudine": "38.109418",
+        "longitudine": "13.320532",
+        "quartiere": "Altarello",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 13,
+        "nome": "fontanella",
+        "indirizzo": "piazza Pagliarelli, 7",
+        "latitudine": "38.090433",
+        "longitudine": "13.331536",
+        "quartiere": "Mezzomonreale-Villa Tasca",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 14,
+        "nome": "fontanella",
+        "indirizzo": "via f. Lo Jacono, 20",
+        "latitudine": "38.132622",
+        "longitudine": "13.345516",
+        "quartiere": "Libertà",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 15,
+        "nome": "fontanella",
+        "indirizzo": "via G. Sciuti, 2",
+        "latitudine": "38.132229",
+        "longitudine": "13.34349",
+        "quartiere": "Libertà",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 16,
+        "nome": "fontana",
+        "indirizzo": "cortile seminario greco, 3",
+        "latitudine": "38.141415",
+        "longitudine": "13.35695",
+        "quartiere": "Montepellegrino",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 17,
+        "nome": "fontanella",
+        "indirizzo": "via Nostra Donna del Rotolo, 50",
+        "latitudine": "38.166993",
+        "longitudine": "13.366562",
+        "quartiere": "Arenella-Vergine Maria",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 18,
+        "nome": "fontanella",
+        "indirizzo": "via Perpignano, 177",
+        "latitudine": "38.119107",
+        "longitudine": "13.331853",
+        "quartiere": "Noce",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 19,
+        "nome": "fontanella",
+        "indirizzo": "via Mazzarella, 45",
+        "latitudine": "38.126114",
+        "longitudine": "13.308807",
+        "quartiere": "Uditore-Passo di Rigano",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 20,
+        "nome": "fontana",
+        "indirizzo": "via Aloi, 123",
+        "latitudine": "38.075049",
+        "longitudine": "13.355524",
+        "quartiere": "Villagrazia-Falsomiele",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 21,
+        "nome": "fontana",
+        "indirizzo": "via castellana, 95",
+        "latitudine": "38.125687",
+        "longitudine": "13.308799",
+        "quartiere": "Uditore-Passo di Rigano",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 22,
+        "nome": "fontana",
+        "indirizzo": "cortile Rapallo, 14",
+        "latitudine": "38.067715",
+        "longitudine": "13.425265",
+        "quartiere": "Brancaccio-Ciaculli",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 23,
+        "nome": "fontanella",
+        "indirizzo": "via conte Federico, 178",
+        "latitudine": "38.093007",
+        "longitudine": "13.388577",
+        "quartiere": "Brancaccio-Ciaculli",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 24,
+        "nome": "fontana",
+        "indirizzo": "vicolo Mezzojuso",
+        "latitudine": "38.113334",
+        "longitudine": "13.366064",
+        "quartiere": "Tribunali-Castellammare",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 25,
+        "nome": "fontanella",
+        "indirizzo": "piazza Meschita",
+        "latitudine": "38.113609",
+        "longitudine": "13.364339",
+        "quartiere": "Tribunali-Castellammare",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 26,
+        "nome": "fontanella",
+        "indirizzo": "via Bologna, 24",
+        "latitudine": "38.113426",
+        "longitudine": "13.364561",
+        "quartiere": "Tribunali-Castellammare",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 27,
+        "nome": "fontanella",
+        "indirizzo": "via Messina Marine, 637",
+        "latitudine": "38.09748",
+        "longitudine": "13.416208",
+        "quartiere": "Settecannoli",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 28,
+        "nome": "fontanella",
+        "indirizzo": "corso dei Mille, 384",
+        "latitudine": "38.102967",
+        "longitudine": "13.379517",
+        "quartiere": "Settecannoli",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 29,
+        "nome": "fontanella",
+        "indirizzo": "via Sperone, 296",
+        "latitudine": "38.09916",
+        "longitudine": "13.401636",
+        "quartiere": "Settecannoli",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 30,
+        "nome": "fontanella",
+        "indirizzo": "via Sperone, 66 a",
+        "latitudine": "38.099477",
+        "longitudine": "13.399401",
+        "quartiere": "Settecannoli",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 31,
+        "nome": "fontanella",
+        "indirizzo": "corso dei Mille, 1620",
+        "latitudine": "38.088055",
+        "longitudine": "13.420907",
+        "quartiere": "Settecannoli",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 32,
+        "nome": "fontanella",
+        "indirizzo": "via Barresi, 7",
+        "latitudine": "38.079082",
+        "longitudine": "13.373998",
+        "quartiere": "Villagrazia-Falsomiele",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 33,
+        "nome": "fontanella",
+        "indirizzo": "via Decollati, 14",
+        "latitudine": "38.105165",
+        "longitudine": "13.371716",
+        "quartiere": "Oreto-Stazione",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 34,
+        "nome": "fontanella",
+        "indirizzo": "via del Celso, 85",
+        "latitudine": "38.116145",
+        "longitudine": "13.358085",
+        "quartiere": "Palazzo Reale-Monte di Pietà",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 35,
+        "nome": "fontanella",
+        "indirizzo": "piazzetta Pietro Speciale, 1",
+        "latitudine": "38.113976",
+        "longitudine": "13.359963",
+        "quartiere": "Palazzo Reale-Monte di Pietà",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 36,
+        "nome": "fontanella",
+        "indirizzo": "piazza Tavola Tonda, 18",
+        "latitudine": "38.120135",
+        "longitudine": "13.365852",
+        "quartiere": "Tribunali-Castellammare",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 37,
+        "nome": "fontana",
+        "indirizzo": "piazza Vittoria",
+        "latitudine": "38.112656",
+        "longitudine": "13.355584",
+        "quartiere": "Palazzo Reale-Monte di Pietà",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 38,
+        "nome": "fontanella",
+        "indirizzo": "via Agostino Catalano, 80",
+        "latitudine": "38.104312",
+        "longitudine": "13.341897",
+        "quartiere": "Cuba-Calatafimi",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 39,
+        "nome": "fontanella",
+        "indirizzo": "piazza San Giovanni alla Guilla, 4",
+        "latitudine": "38.116226",
+        "longitudine": "13.356055",
+        "quartiere": "Palazzo Reale-Monte di Pietà",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 40,
+        "nome": "fontanella",
+        "indirizzo": "piazzetta della Canna, 2",
+        "latitudine": "38.115866",
+        "longitudine": "13.359141",
+        "quartiere": "Palazzo Reale-Monte di Pietà",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 41,
+        "nome": "fontanella",
+        "indirizzo": "piazza Ritiro San Pietro, 20",
+        "latitudine": "38.109595",
+        "longitudine": "13.35887",
+        "quartiere": "Palazzo Reale-Monte di Pietà",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 42,
+        "nome": "fontanella",
+        "indirizzo": "piazzetta delle Api, 6",
+        "latitudine": "38.1169",
+        "longitudine": "13.358557",
+        "quartiere": "Palazzo Reale-Monte di Pietà",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 43,
+        "nome": "fontana",
+        "indirizzo": "via della Libertà Giardino Inglese",
+        "latitudine": "38.131958",
+        "longitudine": "13.350762",
+        "quartiere": "Libertà",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 44,
+        "nome": "fontanella",
+        "indirizzo": "piazza Villagrazia",
+        "latitudine": "38.07816",
+        "longitudine": "13.333445",
+        "quartiere": "Villagrazia-Falsomiele",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 45,
+        "nome": "fontanella",
+        "indirizzo": "fondo Pecoraro (via Falsomiele)",
+        "latitudine": "38.076736",
+        "longitudine": "13.369887",
+        "quartiere": "Villagrazia-Falsomiele",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 46,
+        "nome": "fontanella",
+        "indirizzo": "via Madonna del Soccorso, 3",
+        "latitudine": "38.110006",
+        "longitudine": "13.325337",
+        "quartiere": "Altarello",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 47,
+        "nome": "fontanella",
+        "indirizzo": "via Lorenzo Iandolino, 54",
+        "latitudine": "38.196577",
+        "longitudine": "13.312688",
+        "quartiere": "Partanna-Mondello",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 48,
+        "nome": "fontanella",
+        "indirizzo": "via cortile Castellana Bandiera",
+        "latitudine": "38.14766",
+        "longitudine": "13.36362",
+        "quartiere": "Montepellegrino",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 49,
+        "nome": "fontana",
+        "indirizzo": "vicolo Seidita in via Casamicciola",
+        "latitudine": "38.125994",
+        "longitudine": "13.311662",
+        "quartiere": "Uditore-Passo di Rigano",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 50,
+        "nome": "fontanella",
+        "indirizzo": "via Messina Marine, 50",
+        "latitudine": "38.10695",
+        "longitudine": "13.383327",
+        "quartiere": "Settecannoli",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 51,
+        "nome": "fontana",
+        "indirizzo": "piazzetta Vincenzo di Giovanni",
+        "latitudine": "38.115596",
+        "longitudine": "13.356896",
+        "quartiere": "Palazzo Reale-Monte di Pietà",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 52,
+        "nome": "fontana",
+        "indirizzo": "vicolo degli Orfani, 15",
+        "latitudine": "38.117089",
+        "longitudine": "13.35538",
+        "quartiere": "Palazzo Reale-Monte di Pietà",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 53,
+        "nome": "fontanella",
+        "indirizzo": "largo Parisi, 18",
+        "latitudine": "38.079678",
+        "longitudine": "13.361753",
+        "quartiere": "Villagrazia-Falsomiele",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 54,
+        "nome": "fontanella",
+        "indirizzo": "via Conceria, 32",
+        "latitudine": "38.140232",
+        "longitudine": "13.329823",
+        "quartiere": "Cruillas-S.Giovanni Apostolo",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 55,
+        "nome": "fontana",
+        "indirizzo": "via Baida, 106",
+        "latitudine": "38.109069",
+        "longitudine": "13.305624",
+        "quartiere": "Boccadifalco",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 56,
+        "nome": "fontanella",
+        "indirizzo": "piazza Rossi, 1",
+        "latitudine": "38.190045",
+        "longitudine": "13.2863",
+        "quartiere": "Tommaso Natale-Sferracavallo",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 57,
+        "nome": "fontana",
+        "indirizzo": "fondo Napolitano ",
+        "latitudine": "38.103486",
+        "longitudine": "13.370337",
+        "quartiere": "Oreto-Stazione",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 58,
+        "nome": "fontana",
+        "indirizzo": "villa a Mare",
+        "latitudine": "38.114806",
+        "longitudine": "13.378209",
+        "quartiere": "Oreto-Stazione",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 59,
+        "nome": "fontana",
+        "indirizzo": "piazza Gen. Cascino",
+        "latitudine": "38.148121",
+        "longitudine": "13.357784",
+        "quartiere": "Montepellegrino",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 60,
+        "nome": "fontana",
+        "indirizzo": "via Volturno, 2",
+        "latitudine": "38.119865",
+        "longitudine": "13.3555",
+        "quartiere": "Politeama",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 61,
+        "nome": "fontanella",
+        "indirizzo": "piazza Sferracavallo, 8",
+        "latitudine": "38.197942",
+        "longitudine": "13.276838",
+        "quartiere": "Tommaso Natale-Sferracavallo",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 62,
+        "nome": "fontanella",
+        "indirizzo": "piazza Mandorle, 10",
+        "latitudine": "38.188327",
+        "longitudine": "13.289097",
+        "quartiere": "Tommaso Natale-Sferracavallo",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 63,
+        "nome": "fontanella",
+        "indirizzo": "via di Benedetto, 19",
+        "latitudine": "38.187864",
+        "longitudine": "13.286906",
+        "quartiere": "Tommaso Natale-Sferracavallo",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 64,
+        "nome": "fontanella",
+        "indirizzo": "piazza Pietro Micca, 18",
+        "latitudine": "38.109259",
+        "longitudine": "13.308583",
+        "quartiere": "Boccadifalco",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 65,
+        "nome": "fontanella",
+        "indirizzo": "via Umberto Maddalena, 232",
+        "latitudine": "38.108181",
+        "longitudine": "13.308868",
+        "quartiere": "Boccadifalco",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 66,
+        "nome": "fontanella",
+        "indirizzo": "via Asilo Infantile, 1",
+        "latitudine": "38.195186",
+        "longitudine": "13.312224",
+        "quartiere": "Partanna-Mondello",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 67,
+        "nome": "fontanella",
+        "indirizzo": "via Portello, 14",
+        "latitudine": "38.113467",
+        "longitudine": "13.33033",
+        "quartiere": "Zisa",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 68,
+        "nome": "fontanella",
+        "indirizzo": "via Madonna del Soccorso, 41 a",
+        "latitudine": "38.110867",
+        "longitudine": "13.324978",
+        "quartiere": "Altarello",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 69,
+        "nome": "fontanella",
+        "indirizzo": "piazza Mondello, 1",
+        "latitudine": "38.20721",
+        "longitudine": "13.326597",
+        "quartiere": "Partanna-Mondello",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 70,
+        "nome": "fontanella",
+        "indirizzo": "via Baida, 21 cod servizio 177024",
+        "latitudine": "38.10846",
+        "longitudine": "13.305472",
+        "quartiere": "Boccadifalco",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 71,
+        "nome": "fontanella",
+        "indirizzo": "via Barcaioli, 44",
+        "latitudine": "38.199366",
+        "longitudine": "13.277711",
+        "quartiere": "Tommaso Natale-Sferracavallo",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 72,
+        "nome": "fontanella",
+        "indirizzo": "via Umberto Maddalena, 113",
+        "latitudine": "38.107688",
+        "longitudine": "13.3092",
+        "quartiere": "Boccadifalco",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 73,
+        "nome": "fontanella",
+        "indirizzo": "via Umberto Maddalena, 103",
+        "latitudine": "38.106864",
+        "longitudine": "13.309612",
+        "quartiere": "Boccadifalco",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 74,
+        "nome": "fontanella",
+        "indirizzo": "corso Calatafimi, 1157",
+        "latitudine": "38.093992",
+        "longitudine": "13.307838",
+        "quartiere": "Mezzomonreale-Villa Tasca",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 75,
+        "nome": "fontanella",
+        "indirizzo": "via Altarello, 76",
+        "latitudine": "38.109835",
+        "longitudine": "13.323331",
+        "quartiere": "Altarello",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 76,
+        "nome": "fontanella",
+        "indirizzo": "via Amorello, 1",
+        "latitudine": "38.19924",
+        "longitudine": "13.276028",
+        "quartiere": "Tommaso Natale-Sferracavallo",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 77,
+        "nome": "fontanella",
+        "indirizzo": "piazza SS. Cosima e Damiano",
+        "latitudine": "38.198393",
+        "longitudine": "13.276254",
+        "quartiere": "Tommaso Natale-Sferracavallo",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 78,
+        "nome": "fontanella",
+        "indirizzo": "piazza Marina di Sferracavallo",
+        "latitudine": "38.198261",
+        "longitudine": "13.274645",
+        "quartiere": "Tommaso Natale-Sferracavallo",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 79,
+        "nome": "fontanella",
+        "indirizzo": "via Sferracavallo, 198",
+        "latitudine": "38.196957",
+        "longitudine": "13.277935",
+        "quartiere": "Tommaso Natale-Sferracavallo",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 80,
+        "nome": "fontanella",
+        "indirizzo": "piazzetta Baglicello",
+        "latitudine": "38.197802",
+        "longitudine": "13.275186",
+        "quartiere": "Tommaso Natale-Sferracavallo",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 81,
+        "nome": "fontanella",
+        "indirizzo": "via Trabucco, 67",
+        "latitudine": "38.147962",
+        "longitudine": "13.315455",
+        "quartiere": "Cruillas-S.Giovanni Apostolo",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 82,
+        "nome": "fontanella",
+        "indirizzo": "via Carbone, 67",
+        "latitudine": "38.198016",
+        "longitudine": "13.316556",
+        "quartiere": "Partanna-Mondello",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 83,
+        "nome": "fontanella",
+        "indirizzo": "corso Calatafimi, 217",
+        "latitudine": "38.109323",
+        "longitudine": "13.345939",
+        "quartiere": "Cuba-Calatafimi",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 84,
+        "nome": "fontanella",
+        "indirizzo": "piazza Gen. Turba",
+        "latitudine": "38.101296",
+        "longitudine": "13.338787",
+        "quartiere": "Cuba-Calatafimi",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 85,
+        "nome": "fontanella",
+        "indirizzo": "via Morici, 1 a",
+        "latitudine": "38.165183",
+        "longitudine": "13.367454",
+        "quartiere": "Arenella-Vergine Maria",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 86,
+        "nome": "fontanella",
+        "indirizzo": "piazza Tonnara, 1",
+        "latitudine": "38.151374",
+        "longitudine": "13.373589",
+        "quartiere": "Arenella-Vergine Maria",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 87,
+        "nome": "fontanella",
+        "indirizzo": "via della Leva, 40",
+        "latitudine": "38.153294",
+        "longitudine": "13.374665",
+        "quartiere": "Arenella-Vergine Maria",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 88,
+        "nome": "fontanella",
+        "indirizzo": "cortile Casermaggio",
+        "latitudine": "38.110888",
+        "longitudine": "13.347125",
+        "quartiere": "Cuba-Calatafimi",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 89,
+        "nome": "fontanella",
+        "indirizzo": "via Michele Fanara, 2",
+        "latitudine": "38.108705",
+        "longitudine": "13.307046",
+        "quartiere": "Boccadifalco",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 90,
+        "nome": "fontanella",
+        "indirizzo": "via Danisinni ang. la Fiura",
+        "latitudine": "38.111831",
+        "longitudine": "13.346463",
+        "quartiere": "Zisa",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 91,
+        "nome": "fontanella",
+        "indirizzo": "via Scopari, 6",
+        "latitudine": "38.11757",
+        "longitudine": "13.371578",
+        "quartiere": "Tribunali-Castellammare",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 92,
+        "nome": "fontanella",
+        "indirizzo": "piazzetta Caruso Arenella",
+        "latitudine": "38.153135",
+        "longitudine": "13.37399",
+        "quartiere": "Arenella-Vergine Maria",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 93,
+        "nome": "fontanella",
+        "indirizzo": "via dei Pescatori",
+        "latitudine": "38.199397",
+        "longitudine": "13.277714",
+        "quartiere": "Tommaso Natale-Sferracavallo",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 94,
+        "nome": "fontanella",
+        "indirizzo": "piazza Uditore, 15",
+        "latitudine": "38.131648",
+        "longitudine": "13.322712",
+        "quartiere": "Uditore-Passo di Rigano",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 95,
+        "nome": "fontanella",
+        "indirizzo": "via Casalini, ang. Leonardo da Vinci",
+        "latitudine": "38.126913",
+        "longitudine": "13.313684",
+        "quartiere": "Uditore-Passo di Rigano",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 96,
+        "nome": "fontanella",
+        "indirizzo": "via Tommaso Natale, 61",
+        "latitudine": "38.174382",
+        "longitudine": "13.301743",
+        "quartiere": "Tommaso Natale-Sferracavallo",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 97,
+        "nome": "fontanella",
+        "indirizzo": "via Massaia Guglielmo Cardinale, 159",
+        "latitudine": "38.154213",
+        "longitudine": "13.371165",
+        "quartiere": "Arenella-Vergine Maria",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 98,
+        "nome": "fontanella",
+        "indirizzo": "corso Calatafimi, 927",
+        "latitudine": "38.100284",
+        "longitudine": "13.323104",
+        "quartiere": "Mezzomonreale-Villa Tasca",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 99,
+        "nome": "fontanella",
+        "indirizzo": "via Resuttana, 418",
+        "latitudine": "38.153186",
+        "longitudine": "13.334822",
+        "quartiere": "Resuttana-San Lorenzo",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 100,
+        "nome": "fontanella",
+        "indirizzo": "piazzetta Scannaserpe",
+        "latitudine": "38.153059",
+        "longitudine": "13.332909",
+        "quartiere": "Resuttana-San Lorenzo",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 101,
+        "nome": "fontanella",
+        "indirizzo": "via Nuova, 106",
+        "latitudine": "38.159765",
+        "longitudine": "13.321899",
+        "quartiere": "Resuttana-San Lorenzo",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 102,
+        "nome": "fontanella",
+        "indirizzo": "via Giusino, 24",
+        "latitudine": "38.172812",
+        "longitudine": "13.334687",
+        "quartiere": "Pallavicino",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 103,
+        "nome": "fontanella",
+        "indirizzo": "via Isac Rabin, 33",
+        "latitudine": "38.144163",
+        "longitudine": "13.357473",
+        "quartiere": "Montepellegrino",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 104,
+        "nome": "fontanella",
+        "indirizzo": "salita Belmonte, 40",
+        "latitudine": "38.144994",
+        "longitudine": "13.368535",
+        "quartiere": "Montepellegrino",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 105,
+        "nome": "fontanella",
+        "indirizzo": "via Florio, 27 e",
+        "latitudine": "38.163538",
+        "longitudine": "13.326594",
+        "quartiere": "Resuttana-San Lorenzo",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 106,
+        "nome": "fontanella",
+        "indirizzo": "via Resuttana, 372",
+        "latitudine": "38.152231",
+        "longitudine": "13.336199",
+        "quartiere": "Resuttana-San Lorenzo",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 107,
+        "nome": "fontanella",
+        "indirizzo": "vicolo Felice, 9",
+        "latitudine": "38.137681",
+        "longitudine": "13.327315",
+        "quartiere": "Uditore-Passo di Rigano",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 108,
+        "nome": "fontanella",
+        "indirizzo": "via Felice, 4",
+        "latitudine": "38.138468",
+        "longitudine": "13.328337",
+        "quartiere": "Uditore-Passo di Rigano",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 109,
+        "nome": "fontanella",
+        "indirizzo": "cortile Prestigiacomo, 10, in via Castellana",
+        "latitudine": "38.125969",
+        "longitudine": "13.311333",
+        "quartiere": "Uditore-Passo di Rigano",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 110,
+        "nome": "fontanella",
+        "indirizzo": "piazzetta di CRistofalo, 5",
+        "latitudine": "38.145292",
+        "longitudine": "13.366613",
+        "quartiere": "Montepellegrino",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 111,
+        "nome": "fontanella",
+        "indirizzo": "fondo Mortillaro, 6",
+        "latitudine": "38.096828",
+        "longitudine": "13.389449",
+        "quartiere": "Settecannoli",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 112,
+        "nome": "fontanella",
+        "indirizzo": "via Caruso, 43",
+        "latitudine": "38.154404",
+        "longitudine": "13.373851",
+        "quartiere": "Arenella-Vergine Maria",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 113,
+        "nome": "fontanella",
+        "indirizzo": "via Giardina, 2",
+        "latitudine": "38.068478",
+        "longitudine": "13.418855",
+        "quartiere": "Brancaccio-Ciaculli",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 114,
+        "nome": "fontanella",
+        "indirizzo": "via Giardina, 53",
+        "latitudine": "38.06754",
+        "longitudine": "13.417459",
+        "quartiere": "Brancaccio-Ciaculli",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 115,
+        "nome": "fontanella",
+        "indirizzo": "piazza Giardina, 3",
+        "latitudine": "38.067044",
+        "longitudine": "13.416643",
+        "quartiere": "Brancaccio-Ciaculli",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 116,
+        "nome": "fontanella",
+        "indirizzo": "corso dei Mille, 1294",
+        "latitudine": "38.09373",
+        "longitudine": "13.405929",
+        "quartiere": "Settecannoli",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 117,
+        "nome": "fontanella",
+        "indirizzo": "corso dei Mille, 1258",
+        "latitudine": "38.093465",
+        "longitudine": "13.406831",
+        "quartiere": "Settecannoli",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 118,
+        "nome": "fontanella",
+        "indirizzo": "corso dei Mille, 988",
+        "latitudine": "38.098127",
+        "longitudine": "13.393617",
+        "quartiere": "Settecannoli",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 119,
+        "nome": "fontanella",
+        "indirizzo": "via Giafar, 127",
+        "latitudine": "38.093763",
+        "longitudine": "13.387449",
+        "quartiere": "Brancaccio-Ciaculli",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 120,
+        "nome": "fontanella",
+        "indirizzo": "via Brancaccio, 228",
+        "latitudine": "38.096174",
+        "longitudine": "13.382879",
+        "quartiere": "Brancaccio-Ciaculli",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 121,
+        "nome": "fontanella",
+        "indirizzo": "via Ciaculli, 240",
+        "latitudine": "38.075933",
+        "longitudine": "13.407128",
+        "quartiere": "Brancaccio-Ciaculli",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 122,
+        "nome": "fontanella",
+        "indirizzo": "via Ciaculli, 216",
+        "latitudine": "38.07704",
+        "longitudine": "13.40454",
+        "quartiere": "Brancaccio-Ciaculli",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 123,
+        "nome": "fontanella",
+        "indirizzo": "via Giulio Tenaglia, 41",
+        "latitudine": "38.079246",
+        "longitudine": "13.398733",
+        "quartiere": "Brancaccio-Ciaculli",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 124,
+        "nome": "fontanella",
+        "indirizzo": "via Guadagna, 50",
+        "latitudine": "38.100082",
+        "longitudine": "13.368958",
+        "quartiere": "Oreto-Stazione",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 125,
+        "nome": "fontanella",
+        "indirizzo": "piazza Vergine Maria, 12",
+        "latitudine": "38.165789",
+        "longitudine": "13.36725",
+        "quartiere": "Arenella-Vergine Maria",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 126,
+        "nome": "fontanella",
+        "indirizzo": "via Sperone, 204",
+        "latitudine": "38.099475",
+        "longitudine": "13.3994",
+        "quartiere": "Settecannoli",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 127,
+        "nome": "fontanella",
+        "indirizzo": "piazza S. Orsola, 7",
+        "latitudine": "38.10116",
+        "longitudine": "13.361543",
+        "quartiere": "Oreto-Stazione",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 128,
+        "nome": "fontanella",
+        "indirizzo": "piazza San Gregorio, 13",
+        "latitudine": "38.118552",
+        "longitudine": "13.355178",
+        "quartiere": "Palazzo Reale-Monte di Pietà",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 129,
+        "nome": "fontanella",
+        "indirizzo": "via Sant'Alessandro, 47",
+        "latitudine": "38.120685",
+        "longitudine": "13.364111",
+        "quartiere": "Tribunali-Castellammare",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 130,
+        "nome": "fontanella",
+        "indirizzo": "piazza Santo Spirito, 15",
+        "latitudine": "38.11984",
+        "longitudine": "13.370935",
+        "quartiere": "Tribunali-Castellammare",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 131,
+        "nome": "fontanella",
+        "indirizzo": "piazza Chiesa dei Cocchieri",
+        "latitudine": "38.115299",
+        "longitudine": "13.367446",
+        "quartiere": "Tribunali-Castellammare",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 132,
+        "nome": "fontanella",
+        "indirizzo": "arco dei Cartari, 7",
+        "latitudine": "38.116642",
+        "longitudine": "13.365605",
+        "quartiere": "Tribunali-Castellammare",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 133,
+        "nome": "fontanella",
+        "indirizzo": "fondo Micciulla, 11",
+        "latitudine": "38.105585",
+        "longitudine": "13.322962",
+        "quartiere": "Altarello",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 134,
+        "nome": "fontanella",
+        "indirizzo": "piazza Mulino a Vento, 1",
+        "latitudine": "38.127628",
+        "longitudine": "13.358786",
+        "quartiere": "Politeama",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 135,
+        "nome": "fontanella",
+        "indirizzo": "piazzetta Ettore Ximenes",
+        "latitudine": "38.128977",
+        "longitudine": "13.358075",
+        "quartiere": "Politeama",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 136,
+        "nome": "fontanella",
+        "indirizzo": "citta' dei Ragazzi, in Viale Duca degli Abruzzi ",
+        "latitudine": "38.168224",
+        "longitudine": "13.328953",
+        "quartiere": "Pallavicino",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 137,
+        "nome": "fontanella",
+        "indirizzo": "pizza Peranni Domenico, 10",
+        "latitudine": "38.114777",
+        "longitudine": "13.352246",
+        "quartiere": "Palazzo Reale-Monte di Pietà",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 138,
+        "nome": "fontanella",
+        "indirizzo": "piazzetta Settecantoni, 2",
+        "latitudine": "38.113477",
+        "longitudine": "13.357842",
+        "quartiere": "Palazzo Reale-Monte di Pietà",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 139,
+        "nome": "fontanella",
+        "indirizzo": "via Villagrazia 467",
+        "latitudine": "38.07683",
+        "longitudine": "13.332204",
+        "quartiere": "Villagrazia-Falsomiele",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 140,
+        "nome": "fontanella",
+        "indirizzo": "piazza Tommaso Natale, 90",
+        "latitudine": "38.190947",
+        "longitudine": "13.285067",
+        "quartiere": "Tommaso Natale-Sferracavallo",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 141,
+        "nome": "fontanella",
+        "indirizzo": "cortile le Chiavi ii, 39",
+        "latitudine": "38.146078",
+        "longitudine": "13.366538",
+        "quartiere": "Montepellegrino",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 142,
+        "nome": "fontanella",
+        "indirizzo": "via Mater Dolorosa, 97",
+        "latitudine": "38.173522",
+        "longitudine": "13.330118",
+        "quartiere": "Pallavicino",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 143,
+        "nome": "fontanella",
+        "indirizzo": "via SS. Salvatore, 30",
+        "latitudine": "38.114269",
+        "longitudine": "13.358899",
+        "quartiere": "Palazzo Reale-Monte di Pietà",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 144,
+        "nome": "fontanella",
+        "indirizzo": "via Conte Federico, 61",
+        "latitudine": "38.093773",
+        "longitudine": "13.385614",
+        "quartiere": "Brancaccio-Ciaculli",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 145,
+        "nome": "fontanella",
+        "indirizzo": "cortile Lombino ",
+        "latitudine": "38.095768",
+        "longitudine": "13.381778",
+        "quartiere": "Brancaccio-Ciaculli",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 146,
+        "nome": "fontanella",
+        "indirizzo": "piazzetta Cinà, 97",
+        "latitudine": "38.066279",
+        "longitudine": "13.416",
+        "quartiere": "Brancaccio-Ciaculli",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 147,
+        "nome": "fontanella",
+        "indirizzo": "Foro Italico",
+        "latitudine": "38.117118",
+        "longitudine": "13.374003",
+        "quartiere": "Tribunali-Castellammare",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 148,
+        "nome": "fontanella",
+        "indirizzo": "via San Lorenzo, 202",
+        "latitudine": "38.162785",
+        "longitudine": "13.323633",
+        "quartiere": "Resuttana-San Lorenzo",
+        "valueHeatmap": 3
+    },
+    {
+        "id": 149,
+        "nome": "fontanella",
+        "indirizzo": "via Fausto Coppi",
+        "latitudine": "38.180716",
+        "longitudine": "13.318222",
+        "quartiere": "Pallavicino",
+        "valueHeatmap": 3
+    }
+]
