@@ -15,15 +15,8 @@
                 "quartiere": "Partanna-Mondello",
                 "circoscrizione": "VII",
                 "id_quartiere": 22,
-                "all": 11,
-                "fontanella": 10,
-                "fontana": 1,
                 "popolazione": 19873,
-                "superficie": 14.865529,
-                "densitaPopolazione": 0.0005535148191012933,
-                "densitaSuperficie": 0.7399669396225321,
-                "densitaPopolazioneNorm": 5.63508277562522,
-                "densitaSuperficieNorm": 0.8271668636884703
+                "superficie": 14.865529
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -4538,15 +4531,8 @@
                 "quartiere": "Montegrappa-S. Rosalia",
                 "circoscrizione": "IV",
                 "id_quartiere": 4,
-                "all": 0,
-                "fontanella": 0,
-                "fontana": 0,
                 "popolazione": 22054,
-                "superficie": 2.690726,
-                "densitaPopolazione": 0,
-                "densitaSuperficie": 0,
-                "densitaPopolazioneNorm": 0,
-                "densitaSuperficieNorm": 0
+                "superficie": 2.690726
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -5281,15 +5267,8 @@
                 "quartiere": "Resuttana-San Lorenzo",
                 "circoscrizione": "VI",
                 "id_quartiere": 20,
-                "all": 7,
-                "fontanella": 6,
-                "fontana": 1,
                 "popolazione": 41687,
-                "superficie": 13.055127,
-                "densitaPopolazione": 0.00016791805598867753,
-                "densitaSuperficie": 0.5361878134161391,
-                "densitaPopolazioneNorm": 1.70949740163164,
-                "densitaSuperficieNorm": 0.5993737939125372
+                "superficie": 13.055127
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -7176,15 +7155,8 @@
                 "quartiere": "Zisa",
                 "circoscrizione": "V",
                 "id_quartiere": 6,
-                "all": 3,
-                "fontanella": 3,
-                "fontana": 0,
                 "popolazione": 34463,
-                "superficie": 1.625489,
-                "densitaPopolazione": 0.00008704987958099991,
-                "densitaSuperficie": 1.8455984629856002,
-                "densitaPopolazioneNorm": 0.8862152558870778,
-                "densitaSuperficieNorm": 2.063089322659212
+                "superficie": 1.625489
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -7983,15 +7955,8 @@
                 "quartiere": "Oreto-Stazione",
                 "circoscrizione": "III",
                 "id_quartiere": 3,
-                "all": 5,
-                "fontanella": 3,
-                "fontana": 2,
                 "popolazione": 40278,
-                "superficie": 2.901271,
-                "densitaPopolazione": 0.00012413724613933165,
-                "densitaSuperficie": 1.7233826140336426,
-                "densitaPopolazioneNorm": 1.2637848769235631,
-                "densitaSuperficieNorm": 1.926471191419209
+                "superficie": 2.901271
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -8978,15 +8943,8 @@
                 "quartiere": "Cruillas-S.Giovanni Apostolo",
                 "circoscrizione": "VI",
                 "id_quartiere": 19,
-                "all": 2,
-                "fontanella": 2,
-                "fontana": 0,
                 "popolazione": 31554,
-                "superficie": 11.177563,
-                "densitaPopolazione": 0.00006338340622425049,
-                "densitaSuperficie": 0.1789298794379419,
-                "densitaPopolazioneNorm": 0.6452776481299013,
-                "densitaSuperficieNorm": 0.20001551322054725
+                "superficie": 11.177563
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -9853,15 +9811,8 @@
                 "quartiere": "Palazzo Reale-Monte di Pietà",
                 "circoscrizione": "I",
                 "id_quartiere": 2,
-                "all": 14,
-                "fontanella": 11,
-                "fontana": 3,
                 "popolazione": 14306,
-                "superficie": 1.117843,
-                "densitaPopolazione": 0.0009786103732699566,
-                "densitaSuperficie": 12.524120113468529,
-                "densitaPopolazioneNorm": 9.962787387364488,
-                "densitaSuperficieNorm": 14
+                "superficie": 1.117843
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -10500,15 +10451,8 @@
                 "quartiere": "Pallavicino",
                 "circoscrizione": "VII",
                 "id_quartiere": 23,
-                "all": 5,
-                "fontanella": 5,
-                "fontana": 0,
                 "popolazione": 27478,
-                "superficie": 4.875482,
-                "densitaPopolazione": 0.00018196375282043817,
-                "densitaSuperficie": 1.0255396286972243,
-                "densitaPopolazioneNorm": 1.8524902566681443,
-                "densitaSuperficieNorm": 1.1463922951617913
+                "superficie": 4.875482
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -11919,15 +11863,8 @@
                 "quartiere": "Tommaso Natale-Sferracavallo",
                 "circoscrizione": "VII",
                 "id_quartiere": 21,
-                "all": 14,
-                "fontanella": 14,
-                "fontana": 0,
                 "popolazione": 22428,
-                "superficie": 10.648168,
-                "densitaPopolazione": 0.0006242197253433209,
-                "densitaSuperficie": 1.3147801574881237,
-                "densitaPopolazioneNorm": 6.354897287481557,
-                "densitaSuperficieNorm": 1.4697177955869967
+                "superficie": 10.648168
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -14478,15 +14415,8 @@
                 "quartiere": "Tribunali-Castellammare",
                 "circoscrizione": "I",
                 "id_quartiere": 1,
-                "all": 10,
-                "fontanella": 9,
-                "fontana": 1,
                 "popolazione": 12379,
-                "superficie": 1.3681,
-                "densitaPopolazione": 0.0008078196946441554,
-                "densitaSuperficie": 7.309407207075505,
-                "densitaPopolazioneNorm": 8.224045120401854,
-                "densitaSuperficieNorm": 8.170769680578903
+                "superficie": 1.3681
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -15157,15 +15087,8 @@
                 "quartiere": "Politeama",
                 "circoscrizione": "VIII",
                 "id_quartiere": 10,
-                "all": 3,
-                "fontanella": 2,
-                "fontana": 1,
                 "popolazione": 32380,
-                "superficie": 2.37087,
-                "densitaPopolazione": 0.0000926497838171711,
-                "densitaSuperficie": 1.2653582861987371,
-                "densitaPopolazioneNorm": 0.9432253355045201,
-                "densitaSuperficieNorm": 1.414471902719255
+                "superficie": 2.37087
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -15960,15 +15883,8 @@
                 "quartiere": "Montepellegrino",
                 "circoscrizione": "VIII",
                 "id_quartiere": 24,
-                "all": 7,
-                "fontanella": 5,
-                "fontana": 2,
                 "popolazione": 27640,
-                "superficie": 9.095695,
-                "densitaPopolazione": 0.0002532561505065123,
-                "densitaSuperficie": 0.7695948467929059,
-                "densitaPopolazioneNorm": 2.5782857518747533,
-                "densitaSuperficieNorm": 0.8602862123235223
+                "superficie": 9.095695
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -18919,15 +18835,8 @@
                 "quartiere": "Noce",
                 "circoscrizione": "V",
                 "id_quartiere": 7,
-                "all": 1,
-                "fontanella": 1,
-                "fontana": 0,
                 "popolazione": 28247,
-                "superficie": 1.057415,
-                "densitaPopolazione": 0.00003540198959181506,
-                "densitaSuperficie": 0.9457024914532137,
-                "densitaPopolazioneNorm": 0.3604115642208182,
-                "densitaSuperficieNorm": 1.0571469101535347
+                "superficie": 1.057415
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -19394,15 +19303,8 @@
                 "quartiere": "Libertà",
                 "circoscrizione": "VIII",
                 "id_quartiere": 9,
-                "all": 3,
-                "fontanella": 2,
-                "fontana": 1,
                 "popolazione": 41691,
-                "superficie": 2.50108,
-                "densitaPopolazione": 0.00007195797654169965,
-                "densitaSuperficie": 1.199481823852096,
-                "densitaPopolazioneNorm": 0.7325714509998889,
-                "densitaSuperficieNorm": 1.3408323604202983
+                "superficie": 2.50108
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -20061,15 +19963,8 @@
                 "quartiere": "Settecannoli",
                 "circoscrizione": "II",
                 "id_quartiere": 11,
-                "all": 11,
-                "fontanella": 11,
-                "fontana": 0,
                 "popolazione": 50123,
-                "superficie": 7.601306,
-                "densitaPopolazione": 0.00021946012808491113,
-                "densitaSuperficie": 1.4471197449490916,
-                "densitaPopolazioneNorm": 2.2342238094288054,
-                "densitaSuperficieNorm": 1.6176526770531272
+                "superficie": 7.601306
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -21520,15 +21415,8 @@
                 "quartiere": "Cuba-Calatafimi",
                 "circoscrizione": "IV",
                 "id_quartiere": 5,
-                "all": 4,
-                "fontanella": 4,
-                "fontana": 0,
                 "popolazione": 20350,
-                "superficie": 1.788893,
-                "densitaPopolazione": 0.00019656019656019656,
-                "densitaSuperficie": 2.2360197060416693,
-                "densitaPopolazioneNorm": 2.00109001563547,
-                "densitaSuperficieNorm": 2.4995189762607377
+                "superficie": 1.788893
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -22443,15 +22331,8 @@
                 "quartiere": "Villagrazia-Falsomiele",
                 "circoscrizione": "III",
                 "id_quartiere": 13,
-                "all": 6,
-                "fontanella": 5,
-                "fontana": 1,
                 "popolazione": 40959,
-                "superficie": 17.859946,
-                "densitaPopolazione": 0.00014648795136600013,
-                "densitaSuperficie": 0.3359472643422326,
-                "densitaPopolazioneNorm": 1.4913272474248083,
-                "densitaSuperficieNorm": 0.3755362978141143
+                "superficie": 17.859946
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -24342,15 +24223,8 @@
                 "quartiere": "Brancaccio-Ciaculli",
                 "circoscrizione": "II",
                 "id_quartiere": 12,
-                "all": 13,
-                "fontanella": 12,
-                "fontana": 1,
                 "popolazione": 16948,
-                "superficie": 12.949806,
-                "densitaPopolazione": 0.0007670521595468492,
-                "densitaSuperficie": 1.0038760426217967,
-                "densitaPopolazioneNorm": 7.809009376273949,
-                "densitaSuperficieNorm": 1.122175807112477
+                "superficie": 12.949806
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -25889,15 +25763,8 @@
                 "quartiere": "Boccadifalco",
                 "circoscrizione": "IV",
                 "id_quartiere": 16,
-                "all": 7,
-                "fontanella": 6,
-                "fontana": 1,
                 "popolazione": 7999,
-                "superficie": 11.617665,
-                "densitaPopolazione": 0.001375171896487061,
-                "densitaSuperficie": 0.9468339808386624,
-                "densitaPopolazioneNorm": 14,
-                "densitaSuperficieNorm": 1.058411737642633
+                "superficie": 11.617665
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -27232,15 +27099,8 @@
                 "quartiere": "Mezzomonreale-Villa Tasca",
                 "circoscrizione": "IV",
                 "id_quartiere": 14,
-                "all": 3,
-                "fontanella": 3,
-                "fontana": 0,
                 "popolazione": 37082,
-                "superficie": 8.644933,
-                "densitaPopolazione": 0.00008090178523272746,
-                "densitaSuperficie": 0.34702408913984645,
-                "densitaPopolazioneNorm": 0.8236243019156562,
-                "densitaSuperficieNorm": 0.38791844887635335
+                "superficie": 8.644933
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -28775,15 +28635,8 @@
                 "quartiere": "Malaspina-Palagonia",
                 "circoscrizione": "VIII",
                 "id_quartiere": 8,
-                "all": 0,
-                "fontanella": 0,
-                "fontana": 0,
                 "popolazione": 19551,
-                "superficie": 1.380293,
-                "densitaPopolazione": 0,
-                "densitaSuperficie": 0,
-                "densitaPopolazioneNorm": 0,
-                "densitaSuperficieNorm": 0
+                "superficie": 1.380293
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -29246,15 +29099,8 @@
                 "quartiere": "Uditore-Passo di Rigano",
                 "circoscrizione": "V",
                 "id_quartiere": 17,
-                "all": 8,
-                "fontanella": 6,
-                "fontana": 2,
                 "popolazione": 31363,
-                "superficie": 3.965731,
-                "densitaPopolazione": 0.0002550776392564487,
-                "densitaSuperficie": 2.0172825640468304,
-                "densitaPopolazioneNorm": 2.5968295008884237,
-                "densitaSuperficieNorm": 2.255005193241801
+                "superficie": 3.965731
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -29817,15 +29663,8 @@
                 "quartiere": "Altarello",
                 "circoscrizione": "IV",
                 "id_quartiere": 15,
-                "all": 5,
-                "fontanella": 5,
-                "fontana": 0,
                 "popolazione": 15573,
-                "superficie": 1.806112,
-                "densitaPopolazione": 0.000321068516021319,
-                "densitaSuperficie": 2.768377597845538,
-                "densitaPopolazioneNorm": 3.2686526213784934,
-                "densitaSuperficieNorm": 3.0946115191084496
+                "superficie": 1.806112
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -30408,15 +30247,8 @@
                 "quartiere": "Borgo Nuovo",
                 "circoscrizione": "V",
                 "id_quartiere": 18,
-                "all": 0,
-                "fontanella": 0,
-                "fontana": 0,
                 "popolazione": 20370,
-                "superficie": 10.896688,
-                "densitaPopolazione": 0,
-                "densitaSuperficie": 0,
-                "densitaPopolazioneNorm": 0,
-                "densitaSuperficieNorm": 0
+                "superficie": 10.896688
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -31043,15 +30875,8 @@
                 "quartiere": null,
                 "circoscrizione": null,
                 "id_quartiere": null,
-                "all": 0,
-                "fontanella": 0,
-                "fontana": 0,
                 "popolazione": 0,
-                "superficie": 0,
-                "densitaPopolazione": null,
-                "densitaSuperficie": null,
-                "densitaPopolazioneNorm": null,
-                "densitaSuperficieNorm": null
+                "superficie": 0
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -32374,15 +32199,8 @@
                 "quartiere": "Arenella-Vergine Maria",
                 "circoscrizione": "VII",
                 "id_quartiere": 25,
-                "all": 8,
-                "fontanella": 8,
-                "fontana": 0,
                 "popolazione": 8754,
-                "superficie": 2.305756,
-                "densitaPopolazione": 0.0009138679460817912,
-                "densitaSuperficie": 3.469577873807983,
-                "densitaPopolazioneNorm": 9.30367416453777,
-                "densitaSuperficieNorm": 3.8784433391911373
+                "superficie": 2.305756
             },
             "geometry": {
                 "type": "MultiPolygon",
