@@ -6,7 +6,7 @@
         "latitudine": "38.112536",
         "longitudine": "13.34446",
         "quartiere": "Zisa",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 1,
@@ -15,7 +15,7 @@
         "latitudine": "38.117926",
         "longitudine": "13.353889",
         "quartiere": "Palazzo Reale-Monte di Pietà",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 2,
@@ -24,7 +24,7 @@
         "latitudine": "38.19384",
         "longitudine": "13.327761",
         "quartiere": "Partanna-Mondello",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 3,
@@ -33,7 +33,7 @@
         "latitudine": "38.17158",
         "longitudine": "13.327725",
         "quartiere": "Pallavicino",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 4,
@@ -42,7 +42,7 @@
         "latitudine": "38.192242",
         "longitudine": "13.326659",
         "quartiere": "Partanna-Mondello",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 5,
@@ -51,7 +51,7 @@
         "latitudine": "38.148114",
         "longitudine": "13.343577",
         "quartiere": "Resuttana-San Lorenzo",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 6,
@@ -60,7 +60,7 @@
         "latitudine": "38.189522",
         "longitudine": "13.285868",
         "quartiere": "Tommaso Natale-Sferracavallo",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 7,
@@ -69,7 +69,7 @@
         "latitudine": "38.196281",
         "longitudine": "13.311114",
         "quartiere": "Partanna-Mondello",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 8,
@@ -78,7 +78,7 @@
         "latitudine": "38.201258",
         "longitudine": "13.313392",
         "quartiere": "Partanna-Mondello",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 9,
@@ -87,7 +87,7 @@
         "latitudine": "38.199843",
         "longitudine": "13.313914",
         "quartiere": "Partanna-Mondello",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 10,
@@ -96,7 +96,7 @@
         "latitudine": "38.198446",
         "longitudine": "13.318446",
         "quartiere": "Partanna-Mondello",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 11,
@@ -105,7 +105,7 @@
         "latitudine": "38.196729",
         "longitudine": "13.315325",
         "quartiere": "Partanna-Mondello",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 12,
@@ -114,7 +114,7 @@
         "latitudine": "38.109418",
         "longitudine": "13.320532",
         "quartiere": "Altarello",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 13,
@@ -123,7 +123,7 @@
         "latitudine": "38.090433",
         "longitudine": "13.331536",
         "quartiere": "Mezzomonreale-Villa Tasca",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 14,
@@ -132,7 +132,7 @@
         "latitudine": "38.132622",
         "longitudine": "13.345516",
         "quartiere": "Libertà",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 15,
@@ -141,7 +141,7 @@
         "latitudine": "38.132229",
         "longitudine": "13.34349",
         "quartiere": "Libertà",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 16,
@@ -150,7 +150,7 @@
         "latitudine": "38.141415",
         "longitudine": "13.35695",
         "quartiere": "Montepellegrino",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 17,
@@ -159,7 +159,7 @@
         "latitudine": "38.166993",
         "longitudine": "13.366562",
         "quartiere": "Arenella-Vergine Maria",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 18,
@@ -168,7 +168,7 @@
         "latitudine": "38.119107",
         "longitudine": "13.331853",
         "quartiere": "Noce",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 19,
@@ -177,7 +177,7 @@
         "latitudine": "38.126114",
         "longitudine": "13.308807",
         "quartiere": "Uditore-Passo di Rigano",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 20,
@@ -186,7 +186,7 @@
         "latitudine": "38.075049",
         "longitudine": "13.355524",
         "quartiere": "Villagrazia-Falsomiele",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 21,
@@ -195,7 +195,7 @@
         "latitudine": "38.125687",
         "longitudine": "13.308799",
         "quartiere": "Uditore-Passo di Rigano",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 22,
@@ -204,7 +204,7 @@
         "latitudine": "38.067715",
         "longitudine": "13.425265",
         "quartiere": "Brancaccio-Ciaculli",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 23,
@@ -213,7 +213,7 @@
         "latitudine": "38.093007",
         "longitudine": "13.388577",
         "quartiere": "Brancaccio-Ciaculli",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 24,
@@ -222,7 +222,7 @@
         "latitudine": "38.113334",
         "longitudine": "13.366064",
         "quartiere": "Tribunali-Castellammare",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 25,
@@ -231,7 +231,7 @@
         "latitudine": "38.113609",
         "longitudine": "13.364339",
         "quartiere": "Tribunali-Castellammare",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 26,
@@ -240,7 +240,7 @@
         "latitudine": "38.113426",
         "longitudine": "13.364561",
         "quartiere": "Tribunali-Castellammare",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 27,
@@ -249,7 +249,7 @@
         "latitudine": "38.09748",
         "longitudine": "13.416208",
         "quartiere": "Settecannoli",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 28,
@@ -258,7 +258,7 @@
         "latitudine": "38.102967",
         "longitudine": "13.379517",
         "quartiere": "Settecannoli",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 29,
@@ -267,7 +267,7 @@
         "latitudine": "38.09916",
         "longitudine": "13.401636",
         "quartiere": "Settecannoli",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 30,
@@ -276,7 +276,7 @@
         "latitudine": "38.099477",
         "longitudine": "13.399401",
         "quartiere": "Settecannoli",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 31,
@@ -285,7 +285,7 @@
         "latitudine": "38.088055",
         "longitudine": "13.420907",
         "quartiere": "Settecannoli",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 32,
@@ -294,7 +294,7 @@
         "latitudine": "38.079082",
         "longitudine": "13.373998",
         "quartiere": "Villagrazia-Falsomiele",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 33,
@@ -303,7 +303,7 @@
         "latitudine": "38.105165",
         "longitudine": "13.371716",
         "quartiere": "Oreto-Stazione",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 34,
@@ -312,7 +312,7 @@
         "latitudine": "38.116145",
         "longitudine": "13.358085",
         "quartiere": "Palazzo Reale-Monte di Pietà",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 35,
@@ -321,7 +321,7 @@
         "latitudine": "38.113976",
         "longitudine": "13.359963",
         "quartiere": "Palazzo Reale-Monte di Pietà",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 36,
@@ -330,7 +330,7 @@
         "latitudine": "38.120135",
         "longitudine": "13.365852",
         "quartiere": "Tribunali-Castellammare",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 37,
@@ -339,7 +339,7 @@
         "latitudine": "38.112656",
         "longitudine": "13.355584",
         "quartiere": "Palazzo Reale-Monte di Pietà",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 38,
@@ -348,7 +348,7 @@
         "latitudine": "38.104312",
         "longitudine": "13.341897",
         "quartiere": "Cuba-Calatafimi",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 39,
@@ -357,7 +357,7 @@
         "latitudine": "38.116226",
         "longitudine": "13.356055",
         "quartiere": "Palazzo Reale-Monte di Pietà",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 40,
@@ -366,7 +366,7 @@
         "latitudine": "38.115866",
         "longitudine": "13.359141",
         "quartiere": "Palazzo Reale-Monte di Pietà",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 41,
@@ -375,7 +375,7 @@
         "latitudine": "38.109595",
         "longitudine": "13.35887",
         "quartiere": "Palazzo Reale-Monte di Pietà",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 42,
@@ -384,7 +384,7 @@
         "latitudine": "38.1169",
         "longitudine": "13.358557",
         "quartiere": "Palazzo Reale-Monte di Pietà",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 43,
@@ -393,7 +393,7 @@
         "latitudine": "38.131958",
         "longitudine": "13.350762",
         "quartiere": "Libertà",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 44,
@@ -402,7 +402,7 @@
         "latitudine": "38.07816",
         "longitudine": "13.333445",
         "quartiere": "Villagrazia-Falsomiele",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 45,
@@ -411,7 +411,7 @@
         "latitudine": "38.076736",
         "longitudine": "13.369887",
         "quartiere": "Villagrazia-Falsomiele",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 46,
@@ -420,7 +420,7 @@
         "latitudine": "38.110006",
         "longitudine": "13.325337",
         "quartiere": "Altarello",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 47,
@@ -429,7 +429,7 @@
         "latitudine": "38.196577",
         "longitudine": "13.312688",
         "quartiere": "Partanna-Mondello",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 48,
@@ -438,7 +438,7 @@
         "latitudine": "38.14766",
         "longitudine": "13.36362",
         "quartiere": "Montepellegrino",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 49,
@@ -447,7 +447,7 @@
         "latitudine": "38.125994",
         "longitudine": "13.311662",
         "quartiere": "Uditore-Passo di Rigano",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 50,
@@ -456,7 +456,7 @@
         "latitudine": "38.10695",
         "longitudine": "13.383327",
         "quartiere": "Settecannoli",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 51,
@@ -465,7 +465,7 @@
         "latitudine": "38.115596",
         "longitudine": "13.356896",
         "quartiere": "Palazzo Reale-Monte di Pietà",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 52,
@@ -474,7 +474,7 @@
         "latitudine": "38.117089",
         "longitudine": "13.35538",
         "quartiere": "Palazzo Reale-Monte di Pietà",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 53,
@@ -483,7 +483,7 @@
         "latitudine": "38.079678",
         "longitudine": "13.361753",
         "quartiere": "Villagrazia-Falsomiele",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 54,
@@ -492,7 +492,7 @@
         "latitudine": "38.140232",
         "longitudine": "13.329823",
         "quartiere": "Cruillas-S.Giovanni Apostolo",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 55,
@@ -501,7 +501,7 @@
         "latitudine": "38.109069",
         "longitudine": "13.305624",
         "quartiere": "Boccadifalco",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 56,
@@ -510,7 +510,7 @@
         "latitudine": "38.190045",
         "longitudine": "13.2863",
         "quartiere": "Tommaso Natale-Sferracavallo",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 57,
@@ -519,7 +519,7 @@
         "latitudine": "38.103486",
         "longitudine": "13.370337",
         "quartiere": "Oreto-Stazione",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 58,
@@ -528,7 +528,7 @@
         "latitudine": "38.114806",
         "longitudine": "13.378209",
         "quartiere": "Oreto-Stazione",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 59,
@@ -537,7 +537,7 @@
         "latitudine": "38.148121",
         "longitudine": "13.357784",
         "quartiere": "Montepellegrino",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 60,
@@ -546,7 +546,7 @@
         "latitudine": "38.119865",
         "longitudine": "13.3555",
         "quartiere": "Politeama",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 61,
@@ -555,7 +555,7 @@
         "latitudine": "38.197942",
         "longitudine": "13.276838",
         "quartiere": "Tommaso Natale-Sferracavallo",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 62,
@@ -564,7 +564,7 @@
         "latitudine": "38.188327",
         "longitudine": "13.289097",
         "quartiere": "Tommaso Natale-Sferracavallo",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 63,
@@ -573,7 +573,7 @@
         "latitudine": "38.187864",
         "longitudine": "13.286906",
         "quartiere": "Tommaso Natale-Sferracavallo",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 64,
@@ -582,7 +582,7 @@
         "latitudine": "38.109259",
         "longitudine": "13.308583",
         "quartiere": "Boccadifalco",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 65,
@@ -591,7 +591,7 @@
         "latitudine": "38.108181",
         "longitudine": "13.308868",
         "quartiere": "Boccadifalco",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 66,
@@ -600,7 +600,7 @@
         "latitudine": "38.195186",
         "longitudine": "13.312224",
         "quartiere": "Partanna-Mondello",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 67,
@@ -609,7 +609,7 @@
         "latitudine": "38.113467",
         "longitudine": "13.33033",
         "quartiere": "Zisa",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 68,
@@ -618,7 +618,7 @@
         "latitudine": "38.110867",
         "longitudine": "13.324978",
         "quartiere": "Altarello",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 69,
@@ -627,7 +627,7 @@
         "latitudine": "38.20721",
         "longitudine": "13.326597",
         "quartiere": "Partanna-Mondello",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 70,
@@ -636,7 +636,7 @@
         "latitudine": "38.10846",
         "longitudine": "13.305472",
         "quartiere": "Boccadifalco",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 71,
@@ -645,7 +645,7 @@
         "latitudine": "38.199366",
         "longitudine": "13.277711",
         "quartiere": "Tommaso Natale-Sferracavallo",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 72,
@@ -654,7 +654,7 @@
         "latitudine": "38.107688",
         "longitudine": "13.3092",
         "quartiere": "Boccadifalco",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 73,
@@ -663,7 +663,7 @@
         "latitudine": "38.106864",
         "longitudine": "13.309612",
         "quartiere": "Boccadifalco",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 74,
@@ -672,7 +672,7 @@
         "latitudine": "38.093992",
         "longitudine": "13.307838",
         "quartiere": "Mezzomonreale-Villa Tasca",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 75,
@@ -681,7 +681,7 @@
         "latitudine": "38.109835",
         "longitudine": "13.323331",
         "quartiere": "Altarello",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 76,
@@ -690,7 +690,7 @@
         "latitudine": "38.19924",
         "longitudine": "13.276028",
         "quartiere": "Tommaso Natale-Sferracavallo",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 77,
@@ -699,7 +699,7 @@
         "latitudine": "38.198393",
         "longitudine": "13.276254",
         "quartiere": "Tommaso Natale-Sferracavallo",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 78,
@@ -708,7 +708,7 @@
         "latitudine": "38.198261",
         "longitudine": "13.274645",
         "quartiere": "Tommaso Natale-Sferracavallo",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 79,
@@ -717,7 +717,7 @@
         "latitudine": "38.196957",
         "longitudine": "13.277935",
         "quartiere": "Tommaso Natale-Sferracavallo",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 80,
@@ -726,7 +726,7 @@
         "latitudine": "38.197802",
         "longitudine": "13.275186",
         "quartiere": "Tommaso Natale-Sferracavallo",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 81,
@@ -735,7 +735,7 @@
         "latitudine": "38.147962",
         "longitudine": "13.315455",
         "quartiere": "Cruillas-S.Giovanni Apostolo",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 82,
@@ -744,7 +744,7 @@
         "latitudine": "38.198016",
         "longitudine": "13.316556",
         "quartiere": "Partanna-Mondello",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 83,
@@ -753,7 +753,7 @@
         "latitudine": "38.109323",
         "longitudine": "13.345939",
         "quartiere": "Cuba-Calatafimi",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 84,
@@ -762,7 +762,7 @@
         "latitudine": "38.101296",
         "longitudine": "13.338787",
         "quartiere": "Cuba-Calatafimi",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 85,
@@ -771,7 +771,7 @@
         "latitudine": "38.165183",
         "longitudine": "13.367454",
         "quartiere": "Arenella-Vergine Maria",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 86,
@@ -780,7 +780,7 @@
         "latitudine": "38.151374",
         "longitudine": "13.373589",
         "quartiere": "Arenella-Vergine Maria",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 87,
@@ -789,7 +789,7 @@
         "latitudine": "38.153294",
         "longitudine": "13.374665",
         "quartiere": "Arenella-Vergine Maria",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 88,
@@ -798,7 +798,7 @@
         "latitudine": "38.110888",
         "longitudine": "13.347125",
         "quartiere": "Cuba-Calatafimi",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 89,
@@ -807,7 +807,7 @@
         "latitudine": "38.108705",
         "longitudine": "13.307046",
         "quartiere": "Boccadifalco",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 90,
@@ -816,7 +816,7 @@
         "latitudine": "38.111831",
         "longitudine": "13.346463",
         "quartiere": "Zisa",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 91,
@@ -825,7 +825,7 @@
         "latitudine": "38.11757",
         "longitudine": "13.371578",
         "quartiere": "Tribunali-Castellammare",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 92,
@@ -834,7 +834,7 @@
         "latitudine": "38.153135",
         "longitudine": "13.37399",
         "quartiere": "Arenella-Vergine Maria",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 93,
@@ -843,7 +843,7 @@
         "latitudine": "38.199397",
         "longitudine": "13.277714",
         "quartiere": "Tommaso Natale-Sferracavallo",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 94,
@@ -852,7 +852,7 @@
         "latitudine": "38.131648",
         "longitudine": "13.322712",
         "quartiere": "Uditore-Passo di Rigano",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 95,
@@ -861,7 +861,7 @@
         "latitudine": "38.126913",
         "longitudine": "13.313684",
         "quartiere": "Uditore-Passo di Rigano",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 96,
@@ -870,7 +870,7 @@
         "latitudine": "38.174382",
         "longitudine": "13.301743",
         "quartiere": "Tommaso Natale-Sferracavallo",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 97,
@@ -879,7 +879,7 @@
         "latitudine": "38.154213",
         "longitudine": "13.371165",
         "quartiere": "Arenella-Vergine Maria",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 98,
@@ -888,7 +888,7 @@
         "latitudine": "38.100284",
         "longitudine": "13.323104",
         "quartiere": "Mezzomonreale-Villa Tasca",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 99,
@@ -897,7 +897,7 @@
         "latitudine": "38.153186",
         "longitudine": "13.334822",
         "quartiere": "Resuttana-San Lorenzo",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 100,
@@ -906,7 +906,7 @@
         "latitudine": "38.153059",
         "longitudine": "13.332909",
         "quartiere": "Resuttana-San Lorenzo",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 101,
@@ -915,7 +915,7 @@
         "latitudine": "38.159765",
         "longitudine": "13.321899",
         "quartiere": "Resuttana-San Lorenzo",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 102,
@@ -924,7 +924,7 @@
         "latitudine": "38.172812",
         "longitudine": "13.334687",
         "quartiere": "Pallavicino",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 103,
@@ -933,7 +933,7 @@
         "latitudine": "38.144163",
         "longitudine": "13.357473",
         "quartiere": "Montepellegrino",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 104,
@@ -942,7 +942,7 @@
         "latitudine": "38.144994",
         "longitudine": "13.368535",
         "quartiere": "Montepellegrino",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 105,
@@ -951,7 +951,7 @@
         "latitudine": "38.163538",
         "longitudine": "13.326594",
         "quartiere": "Resuttana-San Lorenzo",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 106,
@@ -960,7 +960,7 @@
         "latitudine": "38.152231",
         "longitudine": "13.336199",
         "quartiere": "Resuttana-San Lorenzo",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 107,
@@ -969,7 +969,7 @@
         "latitudine": "38.137681",
         "longitudine": "13.327315",
         "quartiere": "Uditore-Passo di Rigano",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 108,
@@ -978,7 +978,7 @@
         "latitudine": "38.138468",
         "longitudine": "13.328337",
         "quartiere": "Uditore-Passo di Rigano",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 109,
@@ -987,7 +987,7 @@
         "latitudine": "38.125969",
         "longitudine": "13.311333",
         "quartiere": "Uditore-Passo di Rigano",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 110,
@@ -996,7 +996,7 @@
         "latitudine": "38.145292",
         "longitudine": "13.366613",
         "quartiere": "Montepellegrino",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 111,
@@ -1005,7 +1005,7 @@
         "latitudine": "38.096828",
         "longitudine": "13.389449",
         "quartiere": "Settecannoli",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 112,
@@ -1014,7 +1014,7 @@
         "latitudine": "38.154404",
         "longitudine": "13.373851",
         "quartiere": "Arenella-Vergine Maria",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 113,
@@ -1023,7 +1023,7 @@
         "latitudine": "38.068478",
         "longitudine": "13.418855",
         "quartiere": "Brancaccio-Ciaculli",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 114,
@@ -1032,7 +1032,7 @@
         "latitudine": "38.06754",
         "longitudine": "13.417459",
         "quartiere": "Brancaccio-Ciaculli",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 115,
@@ -1041,7 +1041,7 @@
         "latitudine": "38.067044",
         "longitudine": "13.416643",
         "quartiere": "Brancaccio-Ciaculli",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 116,
@@ -1050,7 +1050,7 @@
         "latitudine": "38.09373",
         "longitudine": "13.405929",
         "quartiere": "Settecannoli",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 117,
@@ -1059,7 +1059,7 @@
         "latitudine": "38.093465",
         "longitudine": "13.406831",
         "quartiere": "Settecannoli",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 118,
@@ -1068,7 +1068,7 @@
         "latitudine": "38.098127",
         "longitudine": "13.393617",
         "quartiere": "Settecannoli",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 119,
@@ -1077,7 +1077,7 @@
         "latitudine": "38.093763",
         "longitudine": "13.387449",
         "quartiere": "Brancaccio-Ciaculli",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 120,
@@ -1086,7 +1086,7 @@
         "latitudine": "38.096174",
         "longitudine": "13.382879",
         "quartiere": "Brancaccio-Ciaculli",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 121,
@@ -1095,7 +1095,7 @@
         "latitudine": "38.075933",
         "longitudine": "13.407128",
         "quartiere": "Brancaccio-Ciaculli",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 122,
@@ -1104,7 +1104,7 @@
         "latitudine": "38.07704",
         "longitudine": "13.40454",
         "quartiere": "Brancaccio-Ciaculli",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 123,
@@ -1113,7 +1113,7 @@
         "latitudine": "38.079246",
         "longitudine": "13.398733",
         "quartiere": "Brancaccio-Ciaculli",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 124,
@@ -1122,7 +1122,7 @@
         "latitudine": "38.100082",
         "longitudine": "13.368958",
         "quartiere": "Oreto-Stazione",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 125,
@@ -1131,7 +1131,7 @@
         "latitudine": "38.165789",
         "longitudine": "13.36725",
         "quartiere": "Arenella-Vergine Maria",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 126,
@@ -1140,7 +1140,7 @@
         "latitudine": "38.099475",
         "longitudine": "13.3994",
         "quartiere": "Settecannoli",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 127,
@@ -1149,7 +1149,7 @@
         "latitudine": "38.10116",
         "longitudine": "13.361543",
         "quartiere": "Oreto-Stazione",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 128,
@@ -1158,7 +1158,7 @@
         "latitudine": "38.118552",
         "longitudine": "13.355178",
         "quartiere": "Palazzo Reale-Monte di Pietà",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 129,
@@ -1167,7 +1167,7 @@
         "latitudine": "38.120685",
         "longitudine": "13.364111",
         "quartiere": "Tribunali-Castellammare",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 130,
@@ -1176,7 +1176,7 @@
         "latitudine": "38.11984",
         "longitudine": "13.370935",
         "quartiere": "Tribunali-Castellammare",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 131,
@@ -1185,7 +1185,7 @@
         "latitudine": "38.115299",
         "longitudine": "13.367446",
         "quartiere": "Tribunali-Castellammare",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 132,
@@ -1194,7 +1194,7 @@
         "latitudine": "38.116642",
         "longitudine": "13.365605",
         "quartiere": "Tribunali-Castellammare",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 133,
@@ -1203,7 +1203,7 @@
         "latitudine": "38.105585",
         "longitudine": "13.322962",
         "quartiere": "Altarello",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 134,
@@ -1212,7 +1212,7 @@
         "latitudine": "38.127628",
         "longitudine": "13.358786",
         "quartiere": "Politeama",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 135,
@@ -1221,7 +1221,7 @@
         "latitudine": "38.128977",
         "longitudine": "13.358075",
         "quartiere": "Politeama",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 136,
@@ -1230,7 +1230,7 @@
         "latitudine": "38.168224",
         "longitudine": "13.328953",
         "quartiere": "Pallavicino",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 137,
@@ -1239,7 +1239,7 @@
         "latitudine": "38.114777",
         "longitudine": "13.352246",
         "quartiere": "Palazzo Reale-Monte di Pietà",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 138,
@@ -1248,7 +1248,7 @@
         "latitudine": "38.113477",
         "longitudine": "13.357842",
         "quartiere": "Palazzo Reale-Monte di Pietà",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 139,
@@ -1257,7 +1257,7 @@
         "latitudine": "38.07683",
         "longitudine": "13.332204",
         "quartiere": "Villagrazia-Falsomiele",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 140,
@@ -1266,7 +1266,7 @@
         "latitudine": "38.190947",
         "longitudine": "13.285067",
         "quartiere": "Tommaso Natale-Sferracavallo",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 141,
@@ -1275,7 +1275,7 @@
         "latitudine": "38.146078",
         "longitudine": "13.366538",
         "quartiere": "Montepellegrino",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 142,
@@ -1284,7 +1284,7 @@
         "latitudine": "38.173522",
         "longitudine": "13.330118",
         "quartiere": "Pallavicino",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 143,
@@ -1293,7 +1293,7 @@
         "latitudine": "38.114269",
         "longitudine": "13.358899",
         "quartiere": "Palazzo Reale-Monte di Pietà",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 144,
@@ -1302,7 +1302,7 @@
         "latitudine": "38.093773",
         "longitudine": "13.385614",
         "quartiere": "Brancaccio-Ciaculli",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 145,
@@ -1311,7 +1311,7 @@
         "latitudine": "38.095768",
         "longitudine": "13.381778",
         "quartiere": "Brancaccio-Ciaculli",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 146,
@@ -1320,7 +1320,7 @@
         "latitudine": "38.066279",
         "longitudine": "13.416",
         "quartiere": "Brancaccio-Ciaculli",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 147,
@@ -1329,7 +1329,7 @@
         "latitudine": "38.117118",
         "longitudine": "13.374003",
         "quartiere": "Tribunali-Castellammare",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 148,
@@ -1338,7 +1338,7 @@
         "latitudine": "38.162785",
         "longitudine": "13.323633",
         "quartiere": "Resuttana-San Lorenzo",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     },
     {
         "id": 149,
@@ -1347,6 +1347,6 @@
         "latitudine": "38.180716",
         "longitudine": "13.318222",
         "quartiere": "Pallavicino",
-        "valueHeatmap": 3
+        "valueHeatmap": 1
     }
 ]

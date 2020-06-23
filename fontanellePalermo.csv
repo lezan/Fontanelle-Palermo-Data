@@ -1,151 +1,151 @@
 id,nome,indirizzo,latitudine,longitudine,quartiere,valueHeatmap
-0,fontanella,"piazza Danisinni, 22",38.112536,13.34446,Zisa,3
-1,fontanella,"piazza Concezione, 7",38.117926,13.353889,"Palazzo Reale-Monte di Pietà",3
-2,fontanella,"via saline, 29",38.19384,13.327761,"Partanna-Mondello",3
-3,fontanella,"via pallavicino, 93",38.17158,13.327725,Pallavicino,3
-4,fontanella,"piazza martini, 3",38.192242,13.326659,"Partanna-Mondello",3
-5,fontana,"via del fante, 3",38.148114,13.343577,"Resuttana-San Lorenzo",3
-6,fontanella,"piazza Tommaso Natale, 141",38.189522,13.285868,"Tommaso Natale-Sferracavallo",3
-7,fontanella,"via Partanna Mondello, 167",38.196281,13.311114,"Partanna-Mondello",3
-8,fontana,"cortile Catalano, 23 c",38.201258,13.313392,"Partanna-Mondello",3
-9,fontanella,"via Catalano, 43 b",38.199843,13.313914,"Partanna-Mondello",3
-10,fontanella,"via Carbone, 1",38.198446,13.318446,"Partanna-Mondello",3
-11,fontanella,"viale Cavarretta, 1",38.196729,13.315325,"Partanna-Mondello",3
-12,fontanella,"via Altarello, 233",38.109418,13.320532,Altarello,3
-13,fontanella,"piazza Pagliarelli, 7",38.090433,13.331536,"Mezzomonreale-Villa Tasca",3
-14,fontanella,"via f. Lo Jacono, 20",38.132622,13.345516,Libertà,3
-15,fontanella,"via G. Sciuti, 2",38.132229,13.34349,Libertà,3
-16,fontana,"cortile seminario greco, 3",38.141415,13.35695,Montepellegrino,3
-17,fontanella,"via Nostra Donna del Rotolo, 50",38.166993,13.366562,"Arenella-Vergine Maria",3
-18,fontanella,"via Perpignano, 177",38.119107,13.331853,Noce,3
-19,fontanella,"via Mazzarella, 45",38.126114,13.308807,"Uditore-Passo di Rigano",3
-20,fontana,"via Aloi, 123",38.075049,13.355524,"Villagrazia-Falsomiele",3
-21,fontana,"via castellana, 95",38.125687,13.308799,"Uditore-Passo di Rigano",3
-22,fontana,"cortile Rapallo, 14",38.067715,13.425265,"Brancaccio-Ciaculli",3
-23,fontanella,"via conte Federico, 178",38.093007,13.388577,"Brancaccio-Ciaculli",3
-24,fontana,vicolo Mezzojuso,38.113334,13.366064,"Tribunali-Castellammare",3
-25,fontanella,piazza Meschita,38.113609,13.364339,"Tribunali-Castellammare",3
-26,fontanella,"via Bologna, 24",38.113426,13.364561,"Tribunali-Castellammare",3
-27,fontanella,"via Messina Marine, 637",38.09748,13.416208,Settecannoli,3
-28,fontanella,"corso dei Mille, 384",38.102967,13.379517,Settecannoli,3
-29,fontanella,"via Sperone, 296",38.09916,13.401636,Settecannoli,3
-30,fontanella,"via Sperone, 66 a",38.099477,13.399401,Settecannoli,3
-31,fontanella,"corso dei Mille, 1620",38.088055,13.420907,Settecannoli,3
-32,fontanella,"via Barresi, 7",38.079082,13.373998,"Villagrazia-Falsomiele",3
-33,fontanella,"via Decollati, 14",38.105165,13.371716,"Oreto-Stazione",3
-34,fontanella,"via del Celso, 85",38.116145,13.358085,"Palazzo Reale-Monte di Pietà",3
-35,fontanella,"piazzetta Pietro Speciale, 1",38.113976,13.359963,"Palazzo Reale-Monte di Pietà",3
-36,fontanella,"piazza Tavola Tonda, 18",38.120135,13.365852,"Tribunali-Castellammare",3
-37,fontana,piazza Vittoria,38.112656,13.355584,"Palazzo Reale-Monte di Pietà",3
-38,fontanella,"via Agostino Catalano, 80",38.104312,13.341897,"Cuba-Calatafimi",3
-39,fontanella,"piazza San Giovanni alla Guilla, 4",38.116226,13.356055,"Palazzo Reale-Monte di Pietà",3
-40,fontanella,"piazzetta della Canna, 2",38.115866,13.359141,"Palazzo Reale-Monte di Pietà",3
-41,fontanella,"piazza Ritiro San Pietro, 20",38.109595,13.35887,"Palazzo Reale-Monte di Pietà",3
-42,fontanella,"piazzetta delle Api, 6",38.1169,13.358557,"Palazzo Reale-Monte di Pietà",3
-43,fontana,via della Libertà Giardino Inglese,38.131958,13.350762,Libertà,3
-44,fontanella,piazza Villagrazia,38.07816,13.333445,"Villagrazia-Falsomiele",3
-45,fontanella,fondo Pecoraro (via Falsomiele),38.076736,13.369887,"Villagrazia-Falsomiele",3
-46,fontanella,"via Madonna del Soccorso, 3",38.110006,13.325337,Altarello,3
-47,fontanella,"via Lorenzo Iandolino, 54",38.196577,13.312688,"Partanna-Mondello",3
-48,fontanella,via cortile Castellana Bandiera,38.14766,13.36362,Montepellegrino,3
-49,fontana,vicolo Seidita in via Casamicciola,38.125994,13.311662,"Uditore-Passo di Rigano",3
-50,fontanella,"via Messina Marine, 50",38.10695,13.383327,Settecannoli,3
-51,fontana,piazzetta Vincenzo di Giovanni,38.115596,13.356896,"Palazzo Reale-Monte di Pietà",3
-52,fontana,"vicolo degli Orfani, 15",38.117089,13.35538,"Palazzo Reale-Monte di Pietà",3
-53,fontanella,"largo Parisi, 18",38.079678,13.361753,"Villagrazia-Falsomiele",3
-54,fontanella,"via Conceria, 32",38.140232,13.329823,"Cruillas-S.Giovanni Apostolo",3
-55,fontana,"via Baida, 106",38.109069,13.305624,Boccadifalco,3
-56,fontanella,"piazza Rossi, 1",38.190045,13.2863,"Tommaso Natale-Sferracavallo",3
-57,fontana,fondo Napolitano ,38.103486,13.370337,"Oreto-Stazione",3
-58,fontana,villa a Mare,38.114806,13.378209,"Oreto-Stazione",3
-59,fontana,piazza Gen. Cascino,38.148121,13.357784,Montepellegrino,3
-60,fontana,"via Volturno, 2",38.119865,13.3555,Politeama,3
-61,fontanella,"piazza Sferracavallo, 8",38.197942,13.276838,"Tommaso Natale-Sferracavallo",3
-62,fontanella,"piazza Mandorle, 10",38.188327,13.289097,"Tommaso Natale-Sferracavallo",3
-63,fontanella,"via di Benedetto, 19",38.187864,13.286906,"Tommaso Natale-Sferracavallo",3
-64,fontanella,"piazza Pietro Micca, 18",38.109259,13.308583,Boccadifalco,3
-65,fontanella,"via Umberto Maddalena, 232",38.108181,13.308868,Boccadifalco,3
-66,fontanella,"via Asilo Infantile, 1",38.195186,13.312224,"Partanna-Mondello",3
-67,fontanella,"via Portello, 14",38.113467,13.33033,Zisa,3
-68,fontanella,"via Madonna del Soccorso, 41 a",38.110867,13.324978,Altarello,3
-69,fontanella,"piazza Mondello, 1",38.20721,13.326597,"Partanna-Mondello",3
-70,fontanella,"via Baida, 21 cod servizio 177024",38.10846,13.305472,Boccadifalco,3
-71,fontanella,"via Barcaioli, 44",38.199366,13.277711,"Tommaso Natale-Sferracavallo",3
-72,fontanella,"via Umberto Maddalena, 113",38.107688,13.3092,Boccadifalco,3
-73,fontanella,"via Umberto Maddalena, 103",38.106864,13.309612,Boccadifalco,3
-74,fontanella,"corso Calatafimi, 1157",38.093992,13.307838,"Mezzomonreale-Villa Tasca",3
-75,fontanella,"via Altarello, 76",38.109835,13.323331,Altarello,3
-76,fontanella,"via Amorello, 1",38.19924,13.276028,"Tommaso Natale-Sferracavallo",3
-77,fontanella,piazza SS. Cosima e Damiano,38.198393,13.276254,"Tommaso Natale-Sferracavallo",3
-78,fontanella,piazza Marina di Sferracavallo,38.198261,13.274645,"Tommaso Natale-Sferracavallo",3
-79,fontanella,"via Sferracavallo, 198",38.196957,13.277935,"Tommaso Natale-Sferracavallo",3
-80,fontanella,piazzetta Baglicello,38.197802,13.275186,"Tommaso Natale-Sferracavallo",3
-81,fontanella,"via Trabucco, 67",38.147962,13.315455,"Cruillas-S.Giovanni Apostolo",3
-82,fontanella,"via Carbone, 67",38.198016,13.316556,"Partanna-Mondello",3
-83,fontanella,"corso Calatafimi, 217",38.109323,13.345939,"Cuba-Calatafimi",3
-84,fontanella,piazza Gen. Turba,38.101296,13.338787,"Cuba-Calatafimi",3
-85,fontanella,"via Morici, 1 a",38.165183,13.367454,"Arenella-Vergine Maria",3
-86,fontanella,"piazza Tonnara, 1",38.151374,13.373589,"Arenella-Vergine Maria",3
-87,fontanella,"via della Leva, 40",38.153294,13.374665,"Arenella-Vergine Maria",3
-88,fontanella,cortile Casermaggio,38.110888,13.347125,"Cuba-Calatafimi",3
-89,fontanella,"via Michele Fanara, 2",38.108705,13.307046,Boccadifalco,3
-90,fontanella,via Danisinni ang. la Fiura,38.111831,13.346463,Zisa,3
-91,fontanella,"via Scopari, 6",38.11757,13.371578,"Tribunali-Castellammare",3
-92,fontanella,piazzetta Caruso Arenella,38.153135,13.37399,"Arenella-Vergine Maria",3
-93,fontanella,via dei Pescatori,38.199397,13.277714,"Tommaso Natale-Sferracavallo",3
-94,fontanella,"piazza Uditore, 15",38.131648,13.322712,"Uditore-Passo di Rigano",3
-95,fontanella,"via Casalini, ang. Leonardo da Vinci",38.126913,13.313684,"Uditore-Passo di Rigano",3
-96,fontanella,"via Tommaso Natale, 61",38.174382,13.301743,"Tommaso Natale-Sferracavallo",3
-97,fontanella,"via Massaia Guglielmo Cardinale, 159",38.154213,13.371165,"Arenella-Vergine Maria",3
-98,fontanella,"corso Calatafimi, 927",38.100284,13.323104,"Mezzomonreale-Villa Tasca",3
-99,fontanella,"via Resuttana, 418",38.153186,13.334822,"Resuttana-San Lorenzo",3
-100,fontanella,piazzetta Scannaserpe,38.153059,13.332909,"Resuttana-San Lorenzo",3
-101,fontanella,"via Nuova, 106",38.159765,13.321899,"Resuttana-San Lorenzo",3
-102,fontanella,"via Giusino, 24",38.172812,13.334687,Pallavicino,3
-103,fontanella,"via Isac Rabin, 33",38.144163,13.357473,Montepellegrino,3
-104,fontanella,"salita Belmonte, 40",38.144994,13.368535,Montepellegrino,3
-105,fontanella,"via Florio, 27 e",38.163538,13.326594,"Resuttana-San Lorenzo",3
-106,fontanella,"via Resuttana, 372",38.152231,13.336199,"Resuttana-San Lorenzo",3
-107,fontanella,"vicolo Felice, 9",38.137681,13.327315,"Uditore-Passo di Rigano",3
-108,fontanella,"via Felice, 4",38.138468,13.328337,"Uditore-Passo di Rigano",3
-109,fontanella,"cortile Prestigiacomo, 10, in via Castellana",38.125969,13.311333,"Uditore-Passo di Rigano",3
-110,fontanella,"piazzetta di CRistofalo, 5",38.145292,13.366613,Montepellegrino,3
-111,fontanella,"fondo Mortillaro, 6",38.096828,13.389449,Settecannoli,3
-112,fontanella,"via Caruso, 43",38.154404,13.373851,"Arenella-Vergine Maria",3
-113,fontanella,"via Giardina, 2",38.068478,13.418855,"Brancaccio-Ciaculli",3
-114,fontanella,"via Giardina, 53",38.06754,13.417459,"Brancaccio-Ciaculli",3
-115,fontanella,"piazza Giardina, 3",38.067044,13.416643,"Brancaccio-Ciaculli",3
-116,fontanella,"corso dei Mille, 1294",38.09373,13.405929,Settecannoli,3
-117,fontanella,"corso dei Mille, 1258",38.093465,13.406831,Settecannoli,3
-118,fontanella,"corso dei Mille, 988",38.098127,13.393617,Settecannoli,3
-119,fontanella,"via Giafar, 127",38.093763,13.387449,"Brancaccio-Ciaculli",3
-120,fontanella,"via Brancaccio, 228",38.096174,13.382879,"Brancaccio-Ciaculli",3
-121,fontanella,"via Ciaculli, 240",38.075933,13.407128,"Brancaccio-Ciaculli",3
-122,fontanella,"via Ciaculli, 216",38.07704,13.40454,"Brancaccio-Ciaculli",3
-123,fontanella,"via Giulio Tenaglia, 41",38.079246,13.398733,"Brancaccio-Ciaculli",3
-124,fontanella,"via Guadagna, 50",38.100082,13.368958,"Oreto-Stazione",3
-125,fontanella,"piazza Vergine Maria, 12",38.165789,13.36725,"Arenella-Vergine Maria",3
-126,fontanella,"via Sperone, 204",38.099475,13.3994,Settecannoli,3
-127,fontanella,"piazza S. Orsola, 7",38.10116,13.361543,"Oreto-Stazione",3
-128,fontanella,"piazza San Gregorio, 13",38.118552,13.355178,"Palazzo Reale-Monte di Pietà",3
-129,fontanella,"via Sant'Alessandro, 47",38.120685,13.364111,"Tribunali-Castellammare",3
-130,fontanella,"piazza Santo Spirito, 15",38.11984,13.370935,"Tribunali-Castellammare",3
-131,fontanella,piazza Chiesa dei Cocchieri,38.115299,13.367446,"Tribunali-Castellammare",3
-132,fontanella,"arco dei Cartari, 7",38.116642,13.365605,"Tribunali-Castellammare",3
-133,fontanella,"fondo Micciulla, 11",38.105585,13.322962,Altarello,3
-134,fontanella,"piazza Mulino a Vento, 1",38.127628,13.358786,Politeama,3
-135,fontanella,piazzetta Ettore Ximenes,38.128977,13.358075,Politeama,3
-136,fontanella,"citta' dei Ragazzi, in Viale Duca degli Abruzzi ",38.168224,13.328953,Pallavicino,3
-137,fontanella,"pizza Peranni Domenico, 10",38.114777,13.352246,"Palazzo Reale-Monte di Pietà",3
-138,fontanella,"piazzetta Settecantoni, 2",38.113477,13.357842,"Palazzo Reale-Monte di Pietà",3
-139,fontanella,via Villagrazia 467,38.07683,13.332204,"Villagrazia-Falsomiele",3
-140,fontanella,"piazza Tommaso Natale, 90",38.190947,13.285067,"Tommaso Natale-Sferracavallo",3
-141,fontanella,"cortile le Chiavi ii, 39",38.146078,13.366538,Montepellegrino,3
-142,fontanella,"via Mater Dolorosa, 97",38.173522,13.330118,Pallavicino,3
-143,fontanella,"via SS. Salvatore, 30",38.114269,13.358899,"Palazzo Reale-Monte di Pietà",3
-144,fontanella,"via Conte Federico, 61",38.093773,13.385614,"Brancaccio-Ciaculli",3
-145,fontanella,cortile Lombino ,38.095768,13.381778,"Brancaccio-Ciaculli",3
-146,fontanella,"piazzetta Cinà, 97",38.066279,13.416,"Brancaccio-Ciaculli",3
-147,fontanella,Foro Italico,38.117118,13.374003,"Tribunali-Castellammare",3
-148,fontanella,"via San Lorenzo, 202",38.162785,13.323633,"Resuttana-San Lorenzo",3
-149,fontanella,via Fausto Coppi,38.180716,13.318222,Pallavicino,3
+0,fontanella,"piazza Danisinni, 22",38.112536,13.34446,Zisa,1
+1,fontanella,"piazza Concezione, 7",38.117926,13.353889,"Palazzo Reale-Monte di Pietà",1
+2,fontanella,"via saline, 29",38.19384,13.327761,"Partanna-Mondello",1
+3,fontanella,"via pallavicino, 93",38.17158,13.327725,Pallavicino,1
+4,fontanella,"piazza martini, 3",38.192242,13.326659,"Partanna-Mondello",1
+5,fontana,"via del fante, 3",38.148114,13.343577,"Resuttana-San Lorenzo",1
+6,fontanella,"piazza Tommaso Natale, 141",38.189522,13.285868,"Tommaso Natale-Sferracavallo",1
+7,fontanella,"via Partanna Mondello, 167",38.196281,13.311114,"Partanna-Mondello",1
+8,fontana,"cortile Catalano, 23 c",38.201258,13.313392,"Partanna-Mondello",1
+9,fontanella,"via Catalano, 43 b",38.199843,13.313914,"Partanna-Mondello",1
+10,fontanella,"via Carbone, 1",38.198446,13.318446,"Partanna-Mondello",1
+11,fontanella,"viale Cavarretta, 1",38.196729,13.315325,"Partanna-Mondello",1
+12,fontanella,"via Altarello, 233",38.109418,13.320532,Altarello,1
+13,fontanella,"piazza Pagliarelli, 7",38.090433,13.331536,"Mezzomonreale-Villa Tasca",1
+14,fontanella,"via f. Lo Jacono, 20",38.132622,13.345516,Libertà,1
+15,fontanella,"via G. Sciuti, 2",38.132229,13.34349,Libertà,1
+16,fontana,"cortile seminario greco, 3",38.141415,13.35695,Montepellegrino,1
+17,fontanella,"via Nostra Donna del Rotolo, 50",38.166993,13.366562,"Arenella-Vergine Maria",1
+18,fontanella,"via Perpignano, 177",38.119107,13.331853,Noce,1
+19,fontanella,"via Mazzarella, 45",38.126114,13.308807,"Uditore-Passo di Rigano",1
+20,fontana,"via Aloi, 123",38.075049,13.355524,"Villagrazia-Falsomiele",1
+21,fontana,"via castellana, 95",38.125687,13.308799,"Uditore-Passo di Rigano",1
+22,fontana,"cortile Rapallo, 14",38.067715,13.425265,"Brancaccio-Ciaculli",1
+23,fontanella,"via conte Federico, 178",38.093007,13.388577,"Brancaccio-Ciaculli",1
+24,fontana,vicolo Mezzojuso,38.113334,13.366064,"Tribunali-Castellammare",1
+25,fontanella,piazza Meschita,38.113609,13.364339,"Tribunali-Castellammare",1
+26,fontanella,"via Bologna, 24",38.113426,13.364561,"Tribunali-Castellammare",1
+27,fontanella,"via Messina Marine, 637",38.09748,13.416208,Settecannoli,1
+28,fontanella,"corso dei Mille, 384",38.102967,13.379517,Settecannoli,1
+29,fontanella,"via Sperone, 296",38.09916,13.401636,Settecannoli,1
+30,fontanella,"via Sperone, 66 a",38.099477,13.399401,Settecannoli,1
+31,fontanella,"corso dei Mille, 1620",38.088055,13.420907,Settecannoli,1
+32,fontanella,"via Barresi, 7",38.079082,13.373998,"Villagrazia-Falsomiele",1
+33,fontanella,"via Decollati, 14",38.105165,13.371716,"Oreto-Stazione",1
+34,fontanella,"via del Celso, 85",38.116145,13.358085,"Palazzo Reale-Monte di Pietà",1
+35,fontanella,"piazzetta Pietro Speciale, 1",38.113976,13.359963,"Palazzo Reale-Monte di Pietà",1
+36,fontanella,"piazza Tavola Tonda, 18",38.120135,13.365852,"Tribunali-Castellammare",1
+37,fontana,piazza Vittoria,38.112656,13.355584,"Palazzo Reale-Monte di Pietà",1
+38,fontanella,"via Agostino Catalano, 80",38.104312,13.341897,"Cuba-Calatafimi",1
+39,fontanella,"piazza San Giovanni alla Guilla, 4",38.116226,13.356055,"Palazzo Reale-Monte di Pietà",1
+40,fontanella,"piazzetta della Canna, 2",38.115866,13.359141,"Palazzo Reale-Monte di Pietà",1
+41,fontanella,"piazza Ritiro San Pietro, 20",38.109595,13.35887,"Palazzo Reale-Monte di Pietà",1
+42,fontanella,"piazzetta delle Api, 6",38.1169,13.358557,"Palazzo Reale-Monte di Pietà",1
+43,fontana,via della Libertà Giardino Inglese,38.131958,13.350762,Libertà,1
+44,fontanella,piazza Villagrazia,38.07816,13.333445,"Villagrazia-Falsomiele",1
+45,fontanella,fondo Pecoraro (via Falsomiele),38.076736,13.369887,"Villagrazia-Falsomiele",1
+46,fontanella,"via Madonna del Soccorso, 3",38.110006,13.325337,Altarello,1
+47,fontanella,"via Lorenzo Iandolino, 54",38.196577,13.312688,"Partanna-Mondello",1
+48,fontanella,via cortile Castellana Bandiera,38.14766,13.36362,Montepellegrino,1
+49,fontana,vicolo Seidita in via Casamicciola,38.125994,13.311662,"Uditore-Passo di Rigano",1
+50,fontanella,"via Messina Marine, 50",38.10695,13.383327,Settecannoli,1
+51,fontana,piazzetta Vincenzo di Giovanni,38.115596,13.356896,"Palazzo Reale-Monte di Pietà",1
+52,fontana,"vicolo degli Orfani, 15",38.117089,13.35538,"Palazzo Reale-Monte di Pietà",1
+53,fontanella,"largo Parisi, 18",38.079678,13.361753,"Villagrazia-Falsomiele",1
+54,fontanella,"via Conceria, 32",38.140232,13.329823,"Cruillas-S.Giovanni Apostolo",1
+55,fontana,"via Baida, 106",38.109069,13.305624,Boccadifalco,1
+56,fontanella,"piazza Rossi, 1",38.190045,13.2863,"Tommaso Natale-Sferracavallo",1
+57,fontana,fondo Napolitano ,38.103486,13.370337,"Oreto-Stazione",1
+58,fontana,villa a Mare,38.114806,13.378209,"Oreto-Stazione",1
+59,fontana,piazza Gen. Cascino,38.148121,13.357784,Montepellegrino,1
+60,fontana,"via Volturno, 2",38.119865,13.3555,Politeama,1
+61,fontanella,"piazza Sferracavallo, 8",38.197942,13.276838,"Tommaso Natale-Sferracavallo",1
+62,fontanella,"piazza Mandorle, 10",38.188327,13.289097,"Tommaso Natale-Sferracavallo",1
+63,fontanella,"via di Benedetto, 19",38.187864,13.286906,"Tommaso Natale-Sferracavallo",1
+64,fontanella,"piazza Pietro Micca, 18",38.109259,13.308583,Boccadifalco,1
+65,fontanella,"via Umberto Maddalena, 232",38.108181,13.308868,Boccadifalco,1
+66,fontanella,"via Asilo Infantile, 1",38.195186,13.312224,"Partanna-Mondello",1
+67,fontanella,"via Portello, 14",38.113467,13.33033,Zisa,1
+68,fontanella,"via Madonna del Soccorso, 41 a",38.110867,13.324978,Altarello,1
+69,fontanella,"piazza Mondello, 1",38.20721,13.326597,"Partanna-Mondello",1
+70,fontanella,"via Baida, 21 cod servizio 177024",38.10846,13.305472,Boccadifalco,1
+71,fontanella,"via Barcaioli, 44",38.199366,13.277711,"Tommaso Natale-Sferracavallo",1
+72,fontanella,"via Umberto Maddalena, 113",38.107688,13.3092,Boccadifalco,1
+73,fontanella,"via Umberto Maddalena, 103",38.106864,13.309612,Boccadifalco,1
+74,fontanella,"corso Calatafimi, 1157",38.093992,13.307838,"Mezzomonreale-Villa Tasca",1
+75,fontanella,"via Altarello, 76",38.109835,13.323331,Altarello,1
+76,fontanella,"via Amorello, 1",38.19924,13.276028,"Tommaso Natale-Sferracavallo",1
+77,fontanella,piazza SS. Cosima e Damiano,38.198393,13.276254,"Tommaso Natale-Sferracavallo",1
+78,fontanella,piazza Marina di Sferracavallo,38.198261,13.274645,"Tommaso Natale-Sferracavallo",1
+79,fontanella,"via Sferracavallo, 198",38.196957,13.277935,"Tommaso Natale-Sferracavallo",1
+80,fontanella,piazzetta Baglicello,38.197802,13.275186,"Tommaso Natale-Sferracavallo",1
+81,fontanella,"via Trabucco, 67",38.147962,13.315455,"Cruillas-S.Giovanni Apostolo",1
+82,fontanella,"via Carbone, 67",38.198016,13.316556,"Partanna-Mondello",1
+83,fontanella,"corso Calatafimi, 217",38.109323,13.345939,"Cuba-Calatafimi",1
+84,fontanella,piazza Gen. Turba,38.101296,13.338787,"Cuba-Calatafimi",1
+85,fontanella,"via Morici, 1 a",38.165183,13.367454,"Arenella-Vergine Maria",1
+86,fontanella,"piazza Tonnara, 1",38.151374,13.373589,"Arenella-Vergine Maria",1
+87,fontanella,"via della Leva, 40",38.153294,13.374665,"Arenella-Vergine Maria",1
+88,fontanella,cortile Casermaggio,38.110888,13.347125,"Cuba-Calatafimi",1
+89,fontanella,"via Michele Fanara, 2",38.108705,13.307046,Boccadifalco,1
+90,fontanella,via Danisinni ang. la Fiura,38.111831,13.346463,Zisa,1
+91,fontanella,"via Scopari, 6",38.11757,13.371578,"Tribunali-Castellammare",1
+92,fontanella,piazzetta Caruso Arenella,38.153135,13.37399,"Arenella-Vergine Maria",1
+93,fontanella,via dei Pescatori,38.199397,13.277714,"Tommaso Natale-Sferracavallo",1
+94,fontanella,"piazza Uditore, 15",38.131648,13.322712,"Uditore-Passo di Rigano",1
+95,fontanella,"via Casalini, ang. Leonardo da Vinci",38.126913,13.313684,"Uditore-Passo di Rigano",1
+96,fontanella,"via Tommaso Natale, 61",38.174382,13.301743,"Tommaso Natale-Sferracavallo",1
+97,fontanella,"via Massaia Guglielmo Cardinale, 159",38.154213,13.371165,"Arenella-Vergine Maria",1
+98,fontanella,"corso Calatafimi, 927",38.100284,13.323104,"Mezzomonreale-Villa Tasca",1
+99,fontanella,"via Resuttana, 418",38.153186,13.334822,"Resuttana-San Lorenzo",1
+100,fontanella,piazzetta Scannaserpe,38.153059,13.332909,"Resuttana-San Lorenzo",1
+101,fontanella,"via Nuova, 106",38.159765,13.321899,"Resuttana-San Lorenzo",1
+102,fontanella,"via Giusino, 24",38.172812,13.334687,Pallavicino,1
+103,fontanella,"via Isac Rabin, 33",38.144163,13.357473,Montepellegrino,1
+104,fontanella,"salita Belmonte, 40",38.144994,13.368535,Montepellegrino,1
+105,fontanella,"via Florio, 27 e",38.163538,13.326594,"Resuttana-San Lorenzo",1
+106,fontanella,"via Resuttana, 372",38.152231,13.336199,"Resuttana-San Lorenzo",1
+107,fontanella,"vicolo Felice, 9",38.137681,13.327315,"Uditore-Passo di Rigano",1
+108,fontanella,"via Felice, 4",38.138468,13.328337,"Uditore-Passo di Rigano",1
+109,fontanella,"cortile Prestigiacomo, 10, in via Castellana",38.125969,13.311333,"Uditore-Passo di Rigano",1
+110,fontanella,"piazzetta di CRistofalo, 5",38.145292,13.366613,Montepellegrino,1
+111,fontanella,"fondo Mortillaro, 6",38.096828,13.389449,Settecannoli,1
+112,fontanella,"via Caruso, 43",38.154404,13.373851,"Arenella-Vergine Maria",1
+113,fontanella,"via Giardina, 2",38.068478,13.418855,"Brancaccio-Ciaculli",1
+114,fontanella,"via Giardina, 53",38.06754,13.417459,"Brancaccio-Ciaculli",1
+115,fontanella,"piazza Giardina, 3",38.067044,13.416643,"Brancaccio-Ciaculli",1
+116,fontanella,"corso dei Mille, 1294",38.09373,13.405929,Settecannoli,1
+117,fontanella,"corso dei Mille, 1258",38.093465,13.406831,Settecannoli,1
+118,fontanella,"corso dei Mille, 988",38.098127,13.393617,Settecannoli,1
+119,fontanella,"via Giafar, 127",38.093763,13.387449,"Brancaccio-Ciaculli",1
+120,fontanella,"via Brancaccio, 228",38.096174,13.382879,"Brancaccio-Ciaculli",1
+121,fontanella,"via Ciaculli, 240",38.075933,13.407128,"Brancaccio-Ciaculli",1
+122,fontanella,"via Ciaculli, 216",38.07704,13.40454,"Brancaccio-Ciaculli",1
+123,fontanella,"via Giulio Tenaglia, 41",38.079246,13.398733,"Brancaccio-Ciaculli",1
+124,fontanella,"via Guadagna, 50",38.100082,13.368958,"Oreto-Stazione",1
+125,fontanella,"piazza Vergine Maria, 12",38.165789,13.36725,"Arenella-Vergine Maria",1
+126,fontanella,"via Sperone, 204",38.099475,13.3994,Settecannoli,1
+127,fontanella,"piazza S. Orsola, 7",38.10116,13.361543,"Oreto-Stazione",1
+128,fontanella,"piazza San Gregorio, 13",38.118552,13.355178,"Palazzo Reale-Monte di Pietà",1
+129,fontanella,"via Sant'Alessandro, 47",38.120685,13.364111,"Tribunali-Castellammare",1
+130,fontanella,"piazza Santo Spirito, 15",38.11984,13.370935,"Tribunali-Castellammare",1
+131,fontanella,piazza Chiesa dei Cocchieri,38.115299,13.367446,"Tribunali-Castellammare",1
+132,fontanella,"arco dei Cartari, 7",38.116642,13.365605,"Tribunali-Castellammare",1
+133,fontanella,"fondo Micciulla, 11",38.105585,13.322962,Altarello,1
+134,fontanella,"piazza Mulino a Vento, 1",38.127628,13.358786,Politeama,1
+135,fontanella,piazzetta Ettore Ximenes,38.128977,13.358075,Politeama,1
+136,fontanella,"citta' dei Ragazzi, in Viale Duca degli Abruzzi ",38.168224,13.328953,Pallavicino,1
+137,fontanella,"pizza Peranni Domenico, 10",38.114777,13.352246,"Palazzo Reale-Monte di Pietà",1
+138,fontanella,"piazzetta Settecantoni, 2",38.113477,13.357842,"Palazzo Reale-Monte di Pietà",1
+139,fontanella,via Villagrazia 467,38.07683,13.332204,"Villagrazia-Falsomiele",1
+140,fontanella,"piazza Tommaso Natale, 90",38.190947,13.285067,"Tommaso Natale-Sferracavallo",1
+141,fontanella,"cortile le Chiavi ii, 39",38.146078,13.366538,Montepellegrino,1
+142,fontanella,"via Mater Dolorosa, 97",38.173522,13.330118,Pallavicino,1
+143,fontanella,"via SS. Salvatore, 30",38.114269,13.358899,"Palazzo Reale-Monte di Pietà",1
+144,fontanella,"via Conte Federico, 61",38.093773,13.385614,"Brancaccio-Ciaculli",1
+145,fontanella,cortile Lombino ,38.095768,13.381778,"Brancaccio-Ciaculli",1
+146,fontanella,"piazzetta Cinà, 97",38.066279,13.416,"Brancaccio-Ciaculli",1
+147,fontanella,Foro Italico,38.117118,13.374003,"Tribunali-Castellammare",1
+148,fontanella,"via San Lorenzo, 202",38.162785,13.323633,"Resuttana-San Lorenzo",1
+149,fontanella,via Fausto Coppi,38.180716,13.318222,Pallavicino,1
